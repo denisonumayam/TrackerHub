@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gabarito&family=Poppins&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="imgs/logo2.png">
+    <style>
+        /* Stili per l'animazione di caricamento */
+        .loading-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.664);
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+        }
+
+        .loading-spinner {
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-top: 4px solid #fff;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+<body>
+        <nav class="navbar">
+            <div class="logo">
+                <img src="imgs/logo1.png" alt="Logo">
+            </div>
+            <div class="links">
+                <a href="#">Scemo1</a>
+                <a href="#">Scemo2</a>
+                <a href="#">Scemo3</a>
+                <a href="#">Scemo4</a>
+            </div>
+        </nav>
+
+        <div class="background">
+            <div class="overlay">
+                <div class="content">
+                    <h1>Qualità senza compromessi</h1>
+                    <p>La nostra promessa è di superare gli 
+                       standard, di offrire<br>una base solida per il futuro e di farlo
+                       con un <br>impegno costante verso l'eccellenza.</p>
+                    <a href="try.php"><button>Search Cards</button></a>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="serviceHome">
+            <h2>Cosa Pensano Di Noi</h2>
+            <p>"DM Service offre servizi edili di alta qualità, dalla progettazione alla realizzazione. <br>Ristrutturazioni, costruzioni e molto altro. La vostra visione, la nostra passione."</p>
+            <div class="square-container">
+                <div class="square">
+                    <div class="image-container">
+                        <img src="imgs/Cliente1.png" alt="Icona ristrutturazioni">
+                        <div class="caption">G. Del Corno</div>
+                        <p>"sono più di vent'anni che uso TrakcerHub, sono li miliori."</p>
+                    </div>
+                </div>
+                <div class="square">
+                    <div class="image-container">
+                        <img src="OIG (1).jfif" alt="Icona costruzioni">
+                        <div class="caption">Prof A. Maffi</div>
+                        <p>"Davvero un ottimo progetto, penso proprio che gli darò un 10."</p>
+                    </div>
+                </div>
+                <div class="square">
+                    <div class="image-container">
+                        <img src="OIG (1).jfif" alt="Icona Manutenzione">
+                        <div class="caption">A. Nela</div>
+                        <p>"I più competenti in ambito, sempre utilizzato ma non so giocare comunque."</p>
+                    </div>
+                </div>
+                <div class="square">
+                    <div class="image-container">
+                        <img src="OIG (1).jfif" alt="Icona progettazione">
+                        <div class="caption">Prof D.D. Mangili</div>
+                        <p>"Mai visto lavoro migliore! voto un bel 10!."</p>
+                    </div>
+                </div>
+            </div>
+            <button>Scopri di più</button>
+        </div>
+                <!-- form con tutti i tipi froci -->
+                <div class="form">
+                        <!-- action="loading.php" //inserire in form per loading animation(funziona il caricamento ma non passa dati) -->
+                        <form method="POST" >
+                            <select name="race">
+                                <option value="Beast">Beast</option>
+                                <option value="Demon">Demon</option>
+                                <option value="Dragon">Dragon</option>
+                                <option value="Mech">Mech</option>
+                                <option value="Murloc">Murloc</option>
+                                <option value="Pirate">Pirate</option>
+                                <option value="Totem">Totem</option>
+                                <option value="Elemental">Elemental</option>
+                            </select>
+                            <input type="submit" value="Invia" onclick="caricaContenuto()">
+                        </form>                
+        
+                </div>
+        <div class="loading-overlay" id="loadingOverlay">
+            <div class="loading-spinner"></div>
+        </div>
+    
+        <script>
+            // Funzione per mostrare/nascondere l'animazione di caricamento
+            function caricaContenuto() {
+                // Mostra l'overlay di caricamento
+                document.getElementById("loadingOverlay").style.display = "flex";
+            }
+        </script>
+</body>
+</html>

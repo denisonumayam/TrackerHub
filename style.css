@@ -1,0 +1,252 @@
+body {
+    color: white;
+    font-family: 'Gabarito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: black;
+} 
+
+.imgCard {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cardContent {
+    text-align: center;
+    display: block;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(27, 27, 27);
+    color: orange;
+    padding: 20px 20px;
+    box-shadow: 10px 10px 10px 10px black;
+}
+
+.logo img {
+    max-width: 200px;
+}
+
+.links a {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 20px;
+    transition: color 0.3s ease;
+}
+
+.links a:hover {
+    color: white;
+}
+
+
+.links a {
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+    margin-left: 20px;
+}
+
+.links a::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    background-color: white;
+    transition: width 0.3s ease;
+}
+
+.links a:hover::after {
+    width: 100%;
+}
+
+.custom-select {
+    width: 100px;
+    margin: 10px;
+}
+
+select {
+    font-weight: bold;
+    width: 100px;
+    padding: 5px;
+    color: white;
+    border: 1px solid orange;
+    border-radius: 4px;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-color: orange;
+    font-size: 16px;
+    color: #555;
+    cursor: pointer;
+    transition: 0.3s;
+
+}
+
+select:hover{
+    color: white;
+    background-color: rgb(90, 59, 0);
+    border:  1px solid rgb(90, 59, 0);
+    transition: 0.3s;
+
+}
+
+.background {
+    background-image: url('imgs/background1.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.background .overlay {
+    background-color: rgba(10, 10, 10, 0.707);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.background .overlay .content {
+    margin-top: 350px;
+    color: #fff;
+    text-align: center;
+    z-index: 1;
+}
+
+.background .overlay .content h1 {
+    font-size: 37px;
+    font-weight: bold;
+}
+
+.background .overlay .content p {
+    font-size: 18px;
+}
+
+.background .overlay .content button {
+    margin-top: 5px;
+    font-family: 'Gabarito', cursive;
+    font-weight: 800;
+    padding: 15px 25px;
+    font-size: 18px;
+    background-color: orange;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 50px;
+    transition: 0.3s;
+}
+.background .overlay .content button:hover {
+    background-color: rgb(122, 80, 0);
+    padding: 20px 35px;
+    transition: 0.3;
+}
+
+
+#loading {
+    display: none;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.serviceHome {
+    background-color: rgb(27, 27, 27);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+
+}
+
+.serviceHome h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: orange;
+}
+
+.serviceHome .square-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1481px;
+    margin: 0 auto;
+}
+
+.serviceHome .square {
+    width: 320px;
+    height: 320px;
+    background-color: orange;
+    margin: 15px;
+    border-radius: 30px;
+    transition: 0.3s;
+    box-shadow: -10px 10px 0px 0px rgb(138, 90, 0);
+
+}
+
+.serviceHome .square:hover {
+    box-shadow: 0px 0px 0px 10px rgb(138, 90, 0);
+
+}
+.serviceHome button {
+    margin-top: 40px;
+    font-family: 'Gabarito', cursive;
+    font-weight: 800;
+    padding: 25px 35px;
+    font-size: 18px;
+    background-color: orange;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 50px;
+    transition: 0.3s;
+}
+
+.serviceHome button:hover {
+    background-color: orange;
+    padding: 20px 35px;
+}
+
+.serviceHome p{
+    text-align: center;
+}
+
+.square-container p{
+    text-align: center;
+    font-size: 13px;
+    margin-left: 30px;
+    width: 80%;
+    font-weight: bold;
+}
+
+.square .image-container {
+
+    text-align: center;
+
+}
+
+.square img {
+    margin-top: 40px;
+    max-height: 200px;
+    max-width: 200px;
+    height: auto;
+}
+
+.square .caption {
+    color: white;
+    font-weight: bold;
+    font-size: 23px;
+    margin-top: 30px;
+}
+

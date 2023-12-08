@@ -1,0 +1,3922 @@
+[
+    {
+        "cardId": "BG23_192",
+        "dbfId": 93835,
+        "name": "First Mate Pip",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 0,
+        "attack": 5,
+        "health": 4,
+        "text": "You only need 2 copies of this minion to make it Golden.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a7bc353829a83051347f3bd82a12bcca4e2ab8262592d13df93e70bcb5292394.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG23_192_G",
+        "dbfId": 93836,
+        "name": "First Mate Pip",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 0,
+        "attack": 10,
+        "health": 8,
+        "text": "<i>(Only 2 copies of this minion were needed to make it Golden.)<\/i>",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/c5dcaf8cd959fd02229d8784677ea339b9eb6bae3b49031ac4681552489ca325.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/65869d812a45cbfa4230bec5e434fe848caa46affd8ecf5e716fa4f2ada0d5b1.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "VAN_NEW1_025",
+        "dbfId": 70089,
+        "name": "Bloodsail Corsair",
+        "cardSet": "Vanilla",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 1,
+        "attack": 1,
+        "health": 2,
+        "text": "[x]<b>Battlecry:<\/b> Remove\\n1 Durability from your\\nopponent's weapon.",
+        "flavor": "Every pirate uses the same four digits to access Automated Gold Dispensers.  It's called the \"Pirate's Code\".",
+        "artist": "Randy Gallegos",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/00a3a5dcabf565f56604edf147e7d0ac960b38cf59d2fe56cf1fa1642524d0bb.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "NEW1_025",
+        "dbfId": 997,
+        "name": "Bloodsail Corsair",
+        "cardSet": "Classic",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 1,
+        "attack": 1,
+        "health": 2,
+        "text": "[x]<b>Battlecry:<\/b> Remove\\n1 Durability from your\\nopponent's weapon.",
+        "flavor": "Every pirate uses the same four digits to access Automated Gold Dispensers.  It's called the \"Pirate's Code\".",
+        "artist": "Randy Gallegos",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/bc1759e713912942754fc8226ae988f75b7ad50260bbe0aa67a9d9d7629178e3.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/bb793653d941b57850cc50b8514461c59a750d5f6059d2a9e3bf10e45520ba4e.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "CS3_008",
+        "dbfId": 103098,
+        "name": "Bloodsail Deckhand",
+        "cardSet": "Legacy",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 1,
+        "attack": 2,
+        "health": 1,
+        "text": "[x]<b>Battlecry:<\/b> The next\\nweapon you play costs\\n(1) less.",
+        "flavor": "Piracy is technically a discount.",
+        "artist": "Vika Yarova",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "CORE_CS3_008",
+        "dbfId": 62462,
+        "name": "Bloodsail Deckhand",
+        "cardSet": "Unknown",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 1,
+        "attack": 2,
+        "health": 1,
+        "text": "[x]<b>Battlecry:<\/b> The next\\nweapon you play costs\\n(1) less.",
+        "flavor": "Piracy is technically a discount.",
+        "artist": "Vika Yarova",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "howToGet": "Unlocked with Warrior class.",
+        "howToGetGold": "Unlocked after winning 50 games as Warrior.",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "DRG_035",
+        "dbfId": 55103,
+        "name": "Bloodsail Flybooter",
+        "cardSet": "Descent of Dragons",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 1,
+        "attack": 1,
+        "health": 1,
+        "text": "<b>Battlecry:<\/b> Add two 1\/1 Pirates to your hand.",
+        "flavor": "They\u2019re pretty fly for some pirate guys.",
+        "artist": "Jim Nelson",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/239bee8f79867de6348196807bf6197c6c4c067822b3b671c57c05dd5eae62a6.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/5ce1e6ef0737a573764a99bcf52ed6299e92e2667289f84498aa5cae15d961c4.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "AT_029",
+        "dbfId": 2715,
+        "name": "Buccaneer",
+        "cardSet": "The Grand Tournament",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 1,
+        "attack": 2,
+        "health": 1,
+        "text": "Whenever you equip a weapon, give it +1 Attack.",
+        "flavor": "The best part of buccaneering is the pants.",
+        "artist": "Matt Dixon",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/5ea10c5479c5350159715f75baee074a2acb1c6a08b0df041e4b2a7efea2b180.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "CORE_AT_029",
+        "dbfId": 76285,
+        "name": "Buccaneer",
+        "cardSet": "Core",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 1,
+        "attack": 2,
+        "health": 1,
+        "text": "Whenever you equip a weapon, give it +1 Attack.",
+        "flavor": "The best part of buccaneering is the pants.",
+        "artist": "Matt Dixon",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "howToGet": "Unlocked with Rogue class.",
+        "howToGetGold": "Unlocked after winning 50 games as Rogue.",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/ba43556881986759315c246a0d72aad6b90e4f1bc44bc226d58f875df22236ab.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "TSC_963",
+        "dbfId": 74890,
+        "name": "Filletfighter",
+        "cardSet": "Voyage to the Sunken City",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 1,
+        "attack": 3,
+        "health": 1,
+        "text": "<b>Battlecry:<\/b> Deal 1 damage.",
+        "flavor": "\"What do you mean this isn't the meal you asked for? ! I made you a Fillet Minion!\"",
+        "artist": "Arthur Bozonnet",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/6799eb178bec4d956e790974b793921ae82b3edeaf379e7effb659070e5abaa5.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "NX2_006",
+        "dbfId": 86487,
+        "name": "Jolly Roger",
+        "cardSet": "March of the Lich King",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 1,
+        "attack": 1,
+        "health": 3,
+        "text": "After your hero\\nattacks, summon a\\n1\/1 Undead Pirate.",
+        "flavor": "That's a great pose, Roger. But this time try happier, and with your mouth open.",
+        "artist": "Matt Dixon",
+        "collectible": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/bf7d48394a49cabc4142906935d9295f07ae72807d13a099d08e28f386fb3296.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "OG_312",
+        "dbfId": 38914,
+        "name": "N'Zoth's First Mate",
+        "cardSet": "Whispers of the Old Gods",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 1,
+        "attack": 1,
+        "health": 1,
+        "text": "<b>Battlecry:<\/b> Equip a 1\/3 Rusty Hook.",
+        "flavor": "Hates when N'Zoth yells \"Ahoy Matey!!\", but there's not really much he can do about it.",
+        "artist": "Paul Mafayon",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "howToGetSignature": "Obtainable by participating in a special event.",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/16928677fec49570696e4855f054be8d06834afc365ad1da446b5a2fd9ddedcd.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "FB_Champs_CFM_637",
+        "dbfId": 55118,
+        "name": "Patches the Pirate",
+        "cardSet": "Tavern Brawl",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 1,
+        "attack": 1,
+        "health": 1,
+        "text": "[x]<b>Charge<\/b>. After you play a Pirate,\\nsummon this minion\\nfrom your deck.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Charge"
+            }
+        ]
+    },
+    {
+        "cardId": "CFM_637",
+        "dbfId": 40465,
+        "name": "Patches the Pirate",
+        "cardSet": "Mean Streets of Gadgetzan",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 1,
+        "attack": 1,
+        "health": 1,
+        "text": "[x]After you play a Pirate,\\nsummon this minion\\nfrom your deck.",
+        "flavor": "What do sailors yell when Patches steals their treasure chest full of laws and other things being transported to parliament for a vote?  \"The Eyes have it!\"",
+        "artist": "James Ryman",
+        "collectible": true,
+        "elite": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Demon"
+        ],
+        "playerClass": "Neutral",
+        "howToGetSignature": "Obtainable in <i>Caverns of Time<\/i> card packs.",
+        "howToGetDiamond": "Collect all 20 Mean Streets of Gadgetzan Legendary cards.",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/165507cd27f4c801a71ffa5da5e6f98252d79a3bee724bda35f74325ac9acfb2.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/51f9f1cea77949b3898c845fac4a657969ff6df58ec6f0ef8ff1c76fbff4c832.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "DMF_519",
+        "dbfId": 61171,
+        "name": "Prize Plunderer",
+        "cardSet": "Madness At The Darkmoon Faire",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 1,
+        "attack": 2,
+        "health": 1,
+        "text": "[x]<b>Combo:<\/b> Deal 1 damage to\\na minion for each other card\\nyou've played this turn.",
+        "flavor": "But he'll never be able to plunder the prize of a happy childhood.",
+        "artist": "Paul Mafayon",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/915114954d527a74f0afe1752ccc32610a520c7a303b26b9123da5b3273c6ce8.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Combo"
+            }
+        ]
+    },
+    {
+        "cardId": "YOD_022",
+        "dbfId": 56100,
+        "name": "Risky Skipper",
+        "cardSet": "Galakrond's Awakening",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 1,
+        "attack": 1,
+        "health": 3,
+        "text": "After you play a minion, deal 1 damage to all_minions.",
+        "flavor": "Sworn enemy of the Safety Matey.",
+        "artist": "Anzka Nguyen",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/2f2b8321d0d9826b269f1e65b3410e9a2135254a9299be20e1ce6e126b6c5679.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/c5604d9d8a7ce5899dc36a7bc3d625e82df01dcda6031635693390f56ca540dc.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BOM_07_Scallywag_001t",
+        "dbfId": 81384,
+        "name": "Scallywag",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "cost": 1,
+        "attack": 2,
+        "health": 1,
+        "text": "<b>Deathrattle:<\/b> Summon a 1\/1 Pirate. It attacks immediately.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Deathrattle"
+            }
+        ]
+    },
+    {
+        "cardId": "BGS_061",
+        "dbfId": 61061,
+        "name": "Scallywag",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 1,
+        "attack": 3,
+        "health": 1,
+        "text": "<b>Deathrattle:<\/b> Summon a 1\/1 Pirate. It attacks immediately.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/5f63308718802554cece1373e35a6d29d8c6c2e24f5142836647fe4d036e9d71.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Deathrattle"
+            }
+        ]
+    },
+    {
+        "cardId": "TB_BaconUps_141",
+        "dbfId": 62262,
+        "name": "Scallywag",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 1,
+        "attack": 6,
+        "health": 2,
+        "text": "<b>Deathrattle:<\/b> Summon a 2\/2 Pirate. It attacks immediately.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/f75a2316a8ad4df4a61328da54b361228bc0680d35d59de11d10ac8c0a54b57e.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/5c6e12e26745a634e78d573577868b9ce6e2b268a7b5a91b13b0ba8759a1156f.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Deathrattle"
+            }
+        ]
+    },
+    {
+        "cardId": "DED_503",
+        "dbfId": 65604,
+        "name": "Shadowblade Slinger",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 1,
+        "attack": 2,
+        "health": 1,
+        "text": "[x]<b>Battlecry:<\/b> If you've taken\\ndamage this turn, deal that\\n_much to an enemy minion.",
+        "flavor": "Throwing knives isn\u2019t easy for a warlock. It\u2019s quite painful, in fact.",
+        "artist": "Maria Trepalina",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warlock",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/f5757b87f39ae5ef68edbf8164b836a4ade0f1522ffaccf8180d5c62cfb371cc.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "TB_BaconUps_141t",
+        "dbfId": 62215,
+        "name": "Sky Pirate",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 1,
+        "attack": 2,
+        "health": 2,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BGS_061t",
+        "dbfId": 62213,
+        "name": "Sky Pirate",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 1,
+        "attack": 1,
+        "health": 1,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/194f573ed355afce4a95f5054b757c4492d3083862d44723c09af50ae6d6da5a.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "DRG_035t",
+        "dbfId": 56044,
+        "name": "Sky Pirate",
+        "cardSet": "Descent of Dragons",
+        "type": "Minion",
+        "cost": 1,
+        "attack": 1,
+        "health": 1,
+        "artist": "Jim Nelson",
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/5a3d01211c5c5544c5435778887c314a8deea47e2f563629d2fecdbf250b6aea.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "DRG_024",
+        "dbfId": 55005,
+        "name": "Sky Raider",
+        "cardSet": "Descent of Dragons",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 1,
+        "attack": 1,
+        "health": 2,
+        "text": "<b>Battlecry:<\/b> Add a random Pirate to your hand.",
+        "flavor": "Maybe he should've hatched a plan that could actually carry booty back too.",
+        "artist": "Ivan Fomin",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/746a495f79be6fc736080e6b88268324d87c8cc6ed9de5634604d8a45a9de8c8.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/0fdda24348f550a937d36af49af550c2215e4fc5f8867bf7fa81860b46bfd75b.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "CFM_325",
+        "dbfId": 40608,
+        "name": "Small-Time Buccaneer",
+        "cardSet": "Mean Streets of Gadgetzan",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 1,
+        "attack": 1,
+        "health": 2,
+        "text": "Has +2 Attack while you have a weapon equipped.",
+        "flavor": "\"Oh, I'm not serious about it.  I only pirate on the weekends.\"",
+        "artist": "Paul Mafayon",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a50381d0b5b17f160ac19904133c3dcc235a1f1f72c71c0c65dcd7a40323f2a2.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/2c8df698d547d181815d79499b4d43b860b3ffc476fc3cdaf89e1d5ca853b998.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "WON_351",
+        "dbfId": 106467,
+        "name": "Small-Time Buccaneer",
+        "cardSet": "Caverns of Time",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 1,
+        "attack": 1,
+        "health": 2,
+        "text": "Has +2 Attack while you have a weapon equipped.",
+        "flavor": "\"Oh, I'm not serious about it.  I only pirate on the weekends.\"",
+        "artist": "Paul Mafayon",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/3d8c9a2b4891b17829bb36dfb53deb2ffa75d04a07a5056b8e82bed95e7f89c5.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG26_135",
+        "dbfId": 98501,
+        "name": "Southsea Busker",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "faction": "Neutral",
+        "cost": 1,
+        "attack": 3,
+        "health": 1,
+        "text": "<b>Battlecry:<\/b> Gain\\n1 Gold next turn.",
+        "artist": "BOSi Studio",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/cb6b29a44687d8305403d1bb6e79edacee80e3ef187428614ce4f7e8a1db3a05.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "BG26_135_G",
+        "dbfId": 98502,
+        "name": "Southsea Busker",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "faction": "Neutral",
+        "cost": 1,
+        "attack": 6,
+        "health": 2,
+        "text": "<b>Battlecry:<\/b> Gain\\n2 Gold next turn.",
+        "artist": "BOSi Studio",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/7012ab8d786cb5652e9c604a586f0ed1624244ebe37a2a416cbaec1ff6d53b34.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "CS2_146",
+        "dbfId": 724,
+        "name": "Southsea Deckhand",
+        "cardSet": "Classic",
+        "type": "Minion",
+        "faction": "Alliance",
+        "rarity": "Common",
+        "cost": 1,
+        "attack": 2,
+        "health": 1,
+        "text": "Has <b>Charge<\/b> while you have a weapon equipped.",
+        "flavor": "Pirates are into this new fad called \"Planking\".",
+        "artist": "Dan Brereton",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/8acc684d009151aee29be9c031029d3cc3fd292bf9f2f9cc36b104496186d087.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d24e4c2af2536ec554b803d841e096f6e07d668b5343186527c941db09f97057.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Charge"
+            }
+        ]
+    },
+    {
+        "cardId": "VAN_CS2_146",
+        "dbfId": 69755,
+        "name": "Southsea Deckhand",
+        "cardSet": "Vanilla",
+        "type": "Minion",
+        "faction": "Alliance",
+        "rarity": "Common",
+        "cost": 1,
+        "attack": 2,
+        "health": 1,
+        "text": "Has <b>Charge<\/b> while you have a weapon equipped.",
+        "flavor": "Pirates are into this new fad called \"Planking\".",
+        "artist": "Dan Brereton",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/32961cc2ac30bbf3d8c8d0c57b152c4003409e7f4c3c66b33cb44ff6010865e5.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Charge"
+            }
+        ]
+    },
+    {
+        "cardId": "TRL_507t",
+        "dbfId": 50833,
+        "name": "Swabbie",
+        "cardSet": "Rastakhan's Rumble",
+        "type": "Minion",
+        "cost": 1,
+        "attack": 1,
+        "health": 1,
+        "artist": "Max Grecke",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/7da2ae0a5d45fa95ba2b182a7b8e0a44a35b5ad0f1e8315fdd96a457197ed8ea.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "CORE_KAR_069",
+        "dbfId": 69742,
+        "name": "Swashburglar",
+        "cardSet": "Core",
+        "type": "Minion",
+        "faction": "Neutral",
+        "rarity": "Common",
+        "cost": 1,
+        "attack": 1,
+        "health": 2,
+        "text": "<b>Battlecry:<\/b> Add a random card from another class to_your hand.",
+        "flavor": "Was almost named \"Swashb-AAAARRHHH-gler\"",
+        "artist": "Zoltan Boros",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "howToGet": "Unlocked with Rogue class.",
+        "howToGetGold": "Unlocked after winning 50 games as Rogue.",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/01a183fa89aaf8d8dc712003da8b602d3f4b1d49f2b017b78741d87837255f34.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "KAR_069",
+        "dbfId": 39698,
+        "name": "Swashburglar",
+        "cardSet": "One Night in Karazhan",
+        "type": "Minion",
+        "faction": "Neutral",
+        "rarity": "Common",
+        "cost": 1,
+        "attack": 1,
+        "health": 2,
+        "text": "<b>Battlecry:<\/b> Add a random card from another class to_your hand.",
+        "flavor": "Was almost named \"Swashb-AAAARRHHH-gler\"",
+        "artist": "Zoltan Boros",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "howToGet": "Unlocked in the Opera, in One Night in Karazhan.",
+        "howToGetGold": "Crafting unlocked in the Opera, in One Night in Karazhan.",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/2f3462bf823e8e820fe955b0727ac0ff3c0c206bac24eab92ae7647ebbddfb2a.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "NX2_006t",
+        "dbfId": 86488,
+        "name": "Zombie Pirate",
+        "cardSet": "March of the Lich King",
+        "type": "Minion",
+        "cost": 1,
+        "attack": 1,
+        "health": 1,
+        "artist": "Ramzy Kamen",
+        "race": "Pirate",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/18dada4917e8d8777166d407a065cc0d3e2bdefc0fed98dbacc83b935af9d690.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "TRL_071",
+        "dbfId": 49838,
+        "name": "Bloodsail Howler",
+        "cardSet": "Rastakhan's Rumble",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 2,
+        "attack": 1,
+        "health": 1,
+        "durability": 0,
+        "text": "[x]<b>Rush<\/b>\\n<b>Battlecry:<\/b> Gain +1\/+1\\nfor each other Pirate\\nyou control.",
+        "flavor": "They saw their fate a closin'\\nAboard a pirate ship\\nOn deck: The Howlin' Hozen\\nAbout to let one rip.",
+        "artist": "Patrik Bjorkstrom",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/9b70dc0627caa5949ef6a17736b111c3ed9d0796917c8aaca2d943b5522fecfc.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/fc41d7e13efb2f894ec3c72b3eb95ddbd1b80e95586b4c23b5331755f9d715cc.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Rush"
+            },
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "VAN_NEW1_018",
+        "dbfId": 70082,
+        "name": "Bloodsail Raider",
+        "cardSet": "Vanilla",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 2,
+        "attack": 2,
+        "health": 3,
+        "text": "<b>Battlecry:<\/b> Gain Attack equal to the Attack\\nof your weapon.",
+        "flavor": "\"I only plunder on days that end in 'y'.\"",
+        "artist": "Jim Nelson",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d4d35877a6a3cd59c79e836425f803d7e9270934e9f5070cdeba966539415af2.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "CORE_NEW1_018",
+        "dbfId": 69677,
+        "name": "Bloodsail Raider",
+        "cardSet": "Core",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 2,
+        "attack": 2,
+        "health": 3,
+        "text": "<b>Battlecry:<\/b> Gain Attack equal to the Attack\\nof your weapon.",
+        "flavor": "\"I only plunder on days that end in 'y'.\"",
+        "artist": "Jim Nelson",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "howToGet": "Unlocked by completing the Tutorial.",
+        "howToGetGold": "Unlocked after 500 total wins.",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a9aeae93edaa6238746c3e35ac180f8dd0128b1f336db0d047cc39b9acd8161a.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "NEW1_018",
+        "dbfId": 999,
+        "name": "Bloodsail Raider",
+        "cardSet": "Classic",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 2,
+        "attack": 2,
+        "health": 3,
+        "text": "<b>Battlecry:<\/b> Gain Attack equal to the Attack\\nof your weapon.",
+        "flavor": "\"I only plunder on days that end in 'y'.\"",
+        "artist": "Jim Nelson",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/045323470d47578b6e40ca6fb358ba6add91ae2f5de6a43b2bbcd1d3a0facf81.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/3e7f42b4e7881d0b5a2e12c9f69227bcc76f35b3d6f26ed59a170af3ae4cfe85.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "GILA_BOSS_60t",
+        "dbfId": 48953,
+        "name": "Cursed Crewmember",
+        "cardSet": "The Witchwood",
+        "type": "Minion",
+        "cost": 2,
+        "attack": 2,
+        "health": 1,
+        "text": "<b>Battlecry:<\/b> Draw 2 cards, then shuffle a copy of your hand into your deck.",
+        "artist": "Craig Elliott",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "PVPDR_Darius_T5",
+        "dbfId": 85663,
+        "name": "Deck Swabbie",
+        "cardSet": "Tavern Brawl",
+        "type": "Minion",
+        "cost": 2,
+        "attack": 1,
+        "health": 4,
+        "text": "At the end of your turn, fire your Cannons!",
+        "flavor": "I am a pirate and I\u2019m swabbing the deck, swabby swabby deck, swabbin' the deck.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/2b8fc8b061e235cfc291e36ffe0df720c9765bfdaea5593a6fc63783d6fc166c.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "DED_513",
+        "dbfId": 65677,
+        "name": "Defias Leper",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 2,
+        "attack": 3,
+        "health": 2,
+        "text": "[x]<b>Battlecry:<\/b> If you're holding\\na Shadow spell, deal\\n2 damage.",
+        "flavor": "Do NOT eat Cookie\u2019s Seafood Surprise.",
+        "artist": "Anton Zemskov",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Priest",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/2f50c8a2691b653e3b1ad268dcaf4e9193722ec45c7696607ec68aed7606b3dd.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "CS3_022",
+        "dbfId": 66854,
+        "name": "Fogsail Freebooter",
+        "cardSet": "Core",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 2,
+        "attack": 2,
+        "health": 2,
+        "text": "<b>Battlecry:<\/b> If you have a weapon equipped, deal_2_damage.",
+        "flavor": "Goes cheap on wardrobe so he can spend on weaponry.",
+        "artist": "David Kegg",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "howToGet": "Unlocked by completing the Tutorial.",
+        "howToGetGold": "Unlocked after 1000 total wins.",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/679143ef5edc7d22525e2019ace2b466f9af41d27ee400dcf1f322ed2187006d.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "SW_029",
+        "dbfId": 64277,
+        "name": "Harbor Scamp",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 2,
+        "attack": 2,
+        "health": 2,
+        "text": "<b>Battlecry:<\/b> Draw a Pirate.",
+        "flavor": "Hey, that gnome looks awfully fishy\u2026",
+        "artist": "Matt Dixon",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/30903e82bb1ab4e10d0cdbfb58c766b4729abcc1c25704e9bba84fb752b84713.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "DED_003",
+        "dbfId": 65584,
+        "name": "Jerry Rig Carpenter",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 2,
+        "attack": 2,
+        "health": 1,
+        "text": "<b>Battlecry:<\/b> Draw a <b>Choose One<\/b> spell and split it.",
+        "flavor": "<b>Choose Two \u2013<\/b> Good; Cheap; or Fast.",
+        "artist": "Adam Byrne",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Druid",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d7936b29956a84e86591e5f024ff86afec6d2affd0907e184b194a5ffbd228c6.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "TSC_942",
+        "dbfId": 72592,
+        "name": "Obsidiansmith",
+        "cardSet": "Voyage to the Sunken City",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 2,
+        "attack": 3,
+        "health": 2,
+        "text": "[x]<b>Battlecry:<\/b> <b>Dredge<\/b>. If it's\\na minion or a weapon,\\ngive it +1\/+1.",
+        "flavor": "Was able to produce more effective weapons than his predecessor, Kelpsmith.",
+        "artist": "Konstantin Turovec",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/fcc4dd89ab18b01e30eda6258ae012d00d61e38e28291f6764ec8807be7f2997.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            },
+            {
+                "name": "Dredge"
+            }
+        ]
+    },
+    {
+        "cardId": "GVG_025",
+        "dbfId": 1990,
+        "name": "One-eyed Cheat",
+        "cardSet": "Goblins vs Gnomes",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 2,
+        "attack": 4,
+        "health": 1,
+        "text": "Whenever you summon a Pirate, gain <b>Stealth<\/b>.",
+        "flavor": "When pirates say there is no \"Eye\" in \"team,\" they are very literal about it.",
+        "artist": "Danny Beck",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/f842753cb7387ec072b3a6c358d21efe4396d7f76f46d4936393bbea49195a5d.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Stealth"
+            }
+        ]
+    },
+    {
+        "cardId": "DRG_056",
+        "dbfId": 55401,
+        "name": "Parachute Brigand",
+        "cardSet": "Descent of Dragons",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 2,
+        "attack": 2,
+        "health": 2,
+        "text": "[x]After you play a Pirate,\\nsummon this minion\\nfrom your hand.",
+        "flavor": "She flies standby.",
+        "artist": "Adam Byrne",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/b2885a5d9be60c1db826b9a4db2203cf375339e6eb88b335daf45214b2943147.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d58a3654a95a1928568cbe39d304857b1b03066f61d8c00bdfea90025032155d.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "TB_015",
+        "dbfId": 2841,
+        "name": "Pirate",
+        "cardSet": "Tavern Brawl",
+        "type": "Minion",
+        "cost": 2,
+        "attack": 2,
+        "health": 3,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "WON_138",
+        "dbfId": 102684,
+        "name": "Shark Puncher",
+        "cardSet": "Caverns of Time",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 2,
+        "attack": 2,
+        "health": 2,
+        "text": "<b>Deathrattle:<\/b> Give a random friendly Pirate +2\/+2.",
+        "flavor": "\"And remember, if you come face-to-face with a shark, punch it in the nose.\"\\n\"Yes. Me punch you in nose with shark.\"\\n\"No, th- OW!\"",
+        "artist": "A.J. Nazzaro",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/c91a81446c195057abd223d5f21f84a0bbe7992eb713484227d8cf3121e619f1.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Deathrattle"
+            }
+        ]
+    },
+    {
+        "cardId": "TRL_507",
+        "dbfId": 50383,
+        "name": "Sharkfin Fan",
+        "cardSet": "Rastakhan's Rumble",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 2,
+        "attack": 2,
+        "health": 2,
+        "text": "After your hero attacks, summon a 1\/1 Pirate.",
+        "flavor": "His taste in soup is criminal.",
+        "artist": "Peter Stapleton",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/0e9ecc19881a6d56ef11b2f55351b46355ecc033d83f6a0371a80d483271d347.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/6858bc07f68e386781d7408e5fd2e5bfe4e070522572a9f2c57e93a12dea7e96.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "TRLA_191",
+        "dbfId": 53030,
+        "name": "Sharktoothed Harpooner",
+        "cardSet": "Rastakhan's Rumble",
+        "type": "Minion",
+        "cost": 2,
+        "attack": 4,
+        "health": 3,
+        "text": "<b>Battlecry:<\/b> If you're holding any cards that didn't start in your deck, reduce their Cost by (4).",
+        "artist": "Steve Prescott",
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "YOD_016",
+        "dbfId": 56091,
+        "name": "Skyvateer",
+        "cardSet": "Galakrond's Awakening",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 2,
+        "attack": 1,
+        "health": 3,
+        "text": "<b>Stealth<\/b>\\n<b>Deathrattle:<\/b> Draw a card.",
+        "flavor": "When you go without fruits in an airship, you get a nasty case of skyvy.",
+        "artist": "Ludo Lullabi",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/3a14289bde50450660f90dfb12ac62a3776f5338b6c39788066b1b0b07f97117.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/8d752ab0be5a9459035dc3254ce9fd2bb26a71b3112519d755f85ef152ccb773.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Deathrattle"
+            },
+            {
+                "name": "Stealth"
+            }
+        ]
+    },
+    {
+        "cardId": "TSC_909",
+        "dbfId": 72105,
+        "name": "Tuskarrrr Trawler",
+        "cardSet": "Voyage to the Sunken City",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 2,
+        "attack": 2,
+        "health": 3,
+        "text": "<b>Battlecry:<\/b> <b>Dredge<\/b>.",
+        "flavor": "\"Fish scales? Junk. A gravestone? Junk. This weird looking puzzle box? Junk. AHA! An Ancharrr!\"",
+        "artist": "James Ryman",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "howToGetGold": "Unlocked with \"Seashells by the Seafloor\" Achievement.",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/cd587609e6ec026c3589beaa8fbd3211649fbb3fee99fe472721fbb5dfee125c.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            },
+            {
+                "name": "Dredge"
+            }
+        ]
+    },
+    {
+        "cardId": "Story_11_TuskarrPuzzle",
+        "dbfId": 92298,
+        "name": "Tuskarrrr Trawler",
+        "cardSet": "Voyage to the Sunken City",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 2,
+        "attack": 2,
+        "health": 3,
+        "text": "<b>Battlecry:<\/b> <b>Dredge<\/b>.",
+        "flavor": "\"Fish scales? Junk. A gravestone? Junk. This weird looking puzzle box? Junk. AHA! An Ancharrr!\"",
+        "artist": "James Ryman",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/bcd4728d2cf04fc2a51e46cd33faa3e0cceb3f97cbb8efc368ecfcfbd9465f1a.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Dredge"
+            },
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "TSC_912t3",
+        "dbfId": 72579,
+        "name": "Azsharan Pirate",
+        "cardSet": "Voyage to the Sunken City",
+        "type": "Minion",
+        "cost": 3,
+        "attack": 3,
+        "health": 3,
+        "text": "<b>Stealth<\/b>",
+        "artist": "Jakub Kasper",
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/0f53b77702fad8b82d7d457003f47b89cd69807efbc018acd90927f9ba5c2ca3.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Stealth"
+            }
+        ]
+    },
+    {
+        "cardId": "BGS_053",
+        "dbfId": 61053,
+        "name": "Bloodsail Cannoneer",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 3,
+        "attack": 4,
+        "health": 3,
+        "text": "<b>Battlecry<\/b>: Give your other Pirates +3 Attack.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/113be4780d115f529a16896a4eec69b7380d76efcca3e05ba782cfc732e0ee6a.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "TB_BaconUps_138",
+        "dbfId": 62254,
+        "name": "Bloodsail Cannoneer",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 3,
+        "attack": 8,
+        "health": 6,
+        "text": "<b>Battlecry<\/b>: Give your other Pirates +6 Attack.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/470d988eb0c643784bbf5d9cb6b244b140f52232f56c5e621141945548709399.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/87fe0bd5098ca574de54537dcb1dc88579d1ee9eace927f181721c6251b24f35.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "OG_315",
+        "dbfId": 38920,
+        "name": "Bloodsail Cultist",
+        "cardSet": "Whispers of the Old Gods",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 3,
+        "attack": 3,
+        "health": 4,
+        "text": "<b>Battlecry:<\/b> If you control another Pirate, give your weapon +1\/+1.",
+        "flavor": "They're really just in it for the Blood Parrot.",
+        "artist": "Matt Dixon",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/e745ec2ef6fd4b171774264cb723232f8c6427f12b774464b6717293a6e5e116.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "SW_030",
+        "dbfId": 64278,
+        "name": "Cargo Guard",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 3,
+        "attack": 2,
+        "health": 4,
+        "text": "At the end of your turn, gain 3 Armor.",
+        "flavor": "*Arrrrrmor",
+        "artist": "Jialuan Li & Junru Zhuo",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/4e9efacefdea49f65deec523c2938b119bd67056376f09c7c9eb8ee15a1404e2.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "TSC_085",
+        "dbfId": 77208,
+        "name": "Cutlass Courier",
+        "cardSet": "Voyage to the Sunken City",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 3,
+        "attack": 2,
+        "health": 5,
+        "text": "After your hero attacks, draw a Pirate.",
+        "flavor": "It may be a cutlass, but you can cut lads with it too.",
+        "artist": "Konstantin Porubov",
+        "collectible": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/8cb1259114a591158ace270531be48c0415eabd3093271ebab0ce35b71e93039.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "GIL_902",
+        "dbfId": 48585,
+        "name": "Cutthroat Buccaneer",
+        "cardSet": "The Witchwood",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 3,
+        "attack": 2,
+        "health": 4,
+        "text": "<b>Combo:<\/b> Give your weapon +1 Attack.",
+        "flavor": "In life he worked as a sword swallower.",
+        "artist": "Konstantin Turovec",
+        "collectible": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/5f3d1a765b562a5612108c0841a40da469ffc635b742ad3f40ed9898e3a429a4.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/6c695dd9cea6d3ef76f778eb21a06d041cf5f09582e863be312b14cd72da1bb7.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Combo"
+            }
+        ]
+    },
+    {
+        "cardId": "TB_BaconShop_HERO_64_Buddy_G",
+        "dbfId": 77535,
+        "name": "Dagwik Stickytoe",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 3,
+        "attack": 10,
+        "health": 10,
+        "text": "At the end of your turn, give a random friendly Golden minion +10\/+10.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "TB_BaconShop_HERO_64_Buddy",
+        "dbfId": 77472,
+        "name": "Dagwik Stickytoe",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 3,
+        "attack": 5,
+        "health": 5,
+        "text": "[x]At the end of your turn,\\ngive a random friendly\\nGolden minion +5\/+5.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BGS_055",
+        "dbfId": 61055,
+        "name": "Deck Swabbie",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 3,
+        "attack": 2,
+        "health": 2,
+        "text": "<b>Battlecry:<\/b> Reduce\\nthe Cost of upgrading\\nthe Tavern by (1).",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/4d85f349513234096a3e1b246b29f2158a389cc4902039efb32450310723641d.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "TB_BaconUps_126",
+        "dbfId": 62186,
+        "name": "Deck Swabbie",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 3,
+        "attack": 4,
+        "health": 4,
+        "text": "<b>Battlecry:<\/b> Reduce\\nthe Cost of upgrading\\nthe Tavern by (2).",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/c2c5c25340af57be5ea771c7877fa2b687c72219e38d69b280a5a7479a7d5d86.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d5f1ce92a42f66a7210dfef09fb92ef5cbfc68e6936b5d80f7f616e0e3a4638d.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "DED_519",
+        "dbfId": 65692,
+        "name": "Defias Cannoneer",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 3,
+        "attack": 3,
+        "health": 3,
+        "text": "[x]After your hero attacks,\\ndeal 2 damage to a\\nrandom enemy twice.",
+        "flavor": "\"... three.\"",
+        "artist": "Matt Dixon",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a57d61e9927e3521300bc15c334fe603ecada88b28add6c1211ba860b062455a.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BGS_049",
+        "dbfId": 61049,
+        "name": "Freedealing Gambler",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 3,
+        "attack": 3,
+        "health": 3,
+        "text": "This minion sells for\\n3 Gold.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/5ac261cfe1b94080fb3bf9826fb3fdac431f01da8984ecfcefb8bad013dcdebe.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "TB_BaconUps_127",
+        "dbfId": 62187,
+        "name": "Freedealing Gambler",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 3,
+        "attack": 6,
+        "health": 6,
+        "text": "This minion sells for\\n6 Gold.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/c9dfc808e801777a59d6fda4c0b0e745e493fb2220b3624572697832d0e4edc2.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/89cc5b10e3bd3d2b2bcc58c7de54c60778f3df726116f9fbe2035c9273826fe9.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "DED_523",
+        "dbfId": 65702,
+        "name": "Golakka Glutton",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 3,
+        "attack": 2,
+        "health": 3,
+        "text": "<b>Battlecry:<\/b> Destroy a Beast and gain +1\/+1.",
+        "flavor": "We lost our last cook to one of these.",
+        "artist": "Wayne Wu",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/ca3096384b209b3e27d3400a769185d8ce61db3de6a637d95937f96c06b67925.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "BG26_810",
+        "dbfId": 98889,
+        "name": "Gunpowder Courier",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 3,
+        "attack": 2,
+        "health": 6,
+        "text": "After you spend 5 Gold,\\ngive your Pirates +1 Attack.\\n<i>(@ Gold left!)<\/i>",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/4ec6f8cba0980833437d1e2442bba49855a7ce726645fdf4db97aacbd1d11efb.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG26_810_G",
+        "dbfId": 98890,
+        "name": "Gunpowder Courier",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 3,
+        "attack": 4,
+        "health": 12,
+        "text": "After you spend 5 Gold,\\ngive your Pirates +2 Attack.\\n<i>(@ Gold left!)<\/i>",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/be05e0120a3c69b27b74abe170a5ae5f745cccab69a17c04e4d32ba245c79f7e.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "NX2_028",
+        "dbfId": 86692,
+        "name": "Hookfist-3000",
+        "cardSet": "March of the Lich King",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 3,
+        "attack": 4,
+        "health": 3,
+        "text": "After your hero attacks, gain 4 Armor and\\ndraw a card.",
+        "flavor": "But wait! There's more!",
+        "artist": "Daniil Kudriavtsev",
+        "collectible": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Mech"
+        ],
+        "playerClass": "Warrior",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/00b034a339b994d34316716583502d90a32e5166bc4d8cb56d4a0a32f63f4a82.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "JAM_023",
+        "dbfId": 95825,
+        "name": "Plagiarizarrr",
+        "cardSet": "Festival of Legends",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 3,
+        "attack": 4,
+        "health": 3,
+        "text": "<b>Battlecry:<\/b> Get a copy\\nof the top card of your opponent's deck.",
+        "flavor": "He's also working on his own Hearthstone expansion: Festival of Epics.",
+        "artist": "Zoltan Boros",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Priest",
+        "multiClassGroup": "Rogue\/Priest",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/17d14e79213623d6adf59e8aa14b935d3626388059c8b1fa85970c97c3ca7609.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "TSC_002",
+        "dbfId": 71690,
+        "name": "Pufferfist",
+        "cardSet": "Voyage to the Sunken City",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 3,
+        "attack": 3,
+        "health": 3,
+        "text": "After your hero attacks, deal 1 damage to all enemies.",
+        "flavor": "\"...and then I'll hit 'em with the ol' puffercut!\"",
+        "artist": "Matt Dixon",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/9bfac6f4fa215ccd26332b7d4caa05768fb3b7cb4c1c81f701c3bf98093dac5e.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BAR_061",
+        "dbfId": 62482,
+        "name": "Ratchet Privateer",
+        "cardSet": "Forged in the Barrens",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 3,
+        "attack": 4,
+        "health": 3,
+        "text": "<b>Battlecry:<\/b> Give your weapon +1 Attack.",
+        "flavor": "There's a fine line between privateering and pirating. It comes down to tax breaks.",
+        "artist": "Eva Widermann",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/79bbe90ef522a9e6a759f4752c72c73480de670ef08c459303be2b833b3577e1.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "CORE_NEW1_027",
+        "dbfId": 69679,
+        "name": "Southsea Captain",
+        "cardSet": "Core",
+        "type": "Minion",
+        "rarity": "Epic",
+        "cost": 3,
+        "attack": 3,
+        "health": 3,
+        "text": "Your other Pirates have +1\/+1.",
+        "flavor": "When he saves enough plunder, he's going to commission an enormous captain's hat.  He has hat envy.",
+        "artist": "Ken Steacy",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "howToGet": "Unlocked by completing the Tutorial.",
+        "howToGetGold": "Unlocked after 2500 total wins.",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/03976bb96ff0078222743e7e9720d583c37ddbb55c8acf1d60f2497d76ffa486.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Aura"
+            }
+        ]
+    },
+    {
+        "cardId": "NEW1_027",
+        "dbfId": 680,
+        "name": "Southsea Captain",
+        "cardSet": "Classic",
+        "type": "Minion",
+        "rarity": "Epic",
+        "cost": 3,
+        "attack": 3,
+        "health": 3,
+        "text": "Your other Pirates have +1\/+1.",
+        "flavor": "When he saves enough plunder, he's going to commission an enormous captain's hat.  He has hat envy.",
+        "artist": "Ken Steacy",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/2f09df5cc361c6ede260a5b92fb55c6d278ffd0a8a34b1911ce5232a1e35fc22.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/02ab9e4d291ce73b151af22b11146cee56aa5eb7e059459974cb3fa4dd1e15ac.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Aura"
+            }
+        ]
+    },
+    {
+        "cardId": "TB_BaconUps_136",
+        "dbfId": 62237,
+        "name": "Southsea Captain",
+        "cardSet": "Classic",
+        "type": "Minion",
+        "rarity": "Epic",
+        "cost": 3,
+        "attack": 6,
+        "health": 6,
+        "text": "Your other Pirates have +2\/+2.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Aura"
+            }
+        ]
+    },
+    {
+        "cardId": "VAN_NEW1_027",
+        "dbfId": 70091,
+        "name": "Southsea Captain",
+        "cardSet": "Vanilla",
+        "type": "Minion",
+        "rarity": "Epic",
+        "cost": 3,
+        "attack": 3,
+        "health": 3,
+        "text": "Your other Pirates have +1\/+1.",
+        "flavor": "When he saves enough plunder, he's going to commission an enormous captain's hat.  He has hat envy.",
+        "artist": "Ken Steacy",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/dee3699d3b12883061441e874c4be4836a76162f57754402e9c908c950adef44.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Aura"
+            }
+        ]
+    },
+    {
+        "cardId": "BG_NEW1_027",
+        "dbfId": 96771,
+        "name": "Southsea Captain",
+        "cardSet": "Classic",
+        "type": "Minion",
+        "rarity": "Epic",
+        "cost": 3,
+        "attack": 3,
+        "health": 3,
+        "text": "Your other Pirates have +1\/+1.",
+        "flavor": "When he saves enough plunder, he's going to commission an enormous captain's hat.  He has hat envy.",
+        "artist": "Ken Steacy",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/0e79fe025e2cf30a16dfd722f43f0e689f3f1f131660344b8568a0e510ec08e2.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Aura"
+            }
+        ]
+    },
+    {
+        "cardId": "SW_093",
+        "dbfId": 64975,
+        "name": "Stormwind Freebooter",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 3,
+        "attack": 3,
+        "health": 4,
+        "text": "<b>Battlecry:<\/b> Give your hero +2 Attack this turn.",
+        "flavor": "\"Just don't stab the ankles! I want his boots!\"",
+        "artist": "Anzka Nguyen",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/ee1bc79d9764e8e746b37cd684eedff66ef5fc079266e10b308c17ed66d19a5d.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "TSC_912t2",
+        "dbfId": 72118,
+        "name": "Sunken Pirate",
+        "cardSet": "Voyage to the Sunken City",
+        "type": "Minion",
+        "cost": 3,
+        "attack": 3,
+        "health": 3,
+        "text": "<b>Stealth<\/b>",
+        "artist": "Jakub Kasper",
+        "race": "Pirate",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/5ef0d7810646228be86ccd46192b2e953e8d03b8623e36aa63bf02342df7a0e4.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Stealth"
+            }
+        ]
+    },
+    {
+        "cardId": "REV_006",
+        "dbfId": 75910,
+        "name": "Suspicious Pirate",
+        "cardSet": "Murder at Castle Nathria",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 3,
+        "attack": 3,
+        "health": 4,
+        "text": "<b>Battlecry:<\/b> <b>Discover<\/b> a weapon. If your opponent guesses your choice, they get a copy.",
+        "flavor": "EVERY party should be a costume party.",
+        "artist": "Caroline Gariba",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/af47a050f60e12cc52076850d9d1f2b271b813be73703c7adaea41109e9b1550.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            },
+            {
+                "name": "Discover"
+            }
+        ]
+    },
+    {
+        "cardId": "BG28_904_G",
+        "dbfId": 105429,
+        "name": "Audacious Anchor",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 6,
+        "health": 26,
+        "text": "[x]<b>Start of Combat:<\/b> Battle\\nthe nearest enemy\\nminion to the death.\\nThen battle again!",
+        "artist": "Peter Stapleton",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d069a62a8ee8c805eaad7fe7eb88fb63dbdba2527d5a286f93596c38f730568e.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG28_904",
+        "dbfId": 105428,
+        "name": "Audacious Anchor",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 3,
+        "health": 13,
+        "text": "[x]<b>Start of Combat:<\/b> Battle\\nthe nearest enemy\\nminion to the death!",
+        "artist": "Peter Stapleton",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/411ab1bd88221c2d3ce797c4fae7926405e3d302ebb9497893b7b9b355da7edf.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "OG_322",
+        "dbfId": 38960,
+        "name": "Blackwater Pirate",
+        "cardSet": "Whispers of the Old Gods",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 4,
+        "attack": 2,
+        "health": 5,
+        "text": "Your weapons cost (2) less.",
+        "flavor": "\"Look, they fell off the back of a ship, do you want them or not? I have a meeting with Y'Shaarj in like ten minutes.\"",
+        "artist": "Max Grecke",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/074638ffec3de710ca92760baf8054b7b0b4af15528d893321d1d4ac27e476d3.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG26_817",
+        "dbfId": 99035,
+        "name": "Blade Collector",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 3,
+        "health": 2,
+        "text": "Also damages the minions next to whomever\\nthis attacks.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/4832caf1f4582430115eef3477bc593c0040fbc589dd6f015448c706edad64bf.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG26_817_G",
+        "dbfId": 99036,
+        "name": "Blade Collector",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 6,
+        "health": 4,
+        "text": "Also damages the minions next to whomever\\nthis attacks.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/45f3904bc63175c6fca210c4cf05504f1fb115b8c1dec1248b10ccf75f28eaeb.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG21_017_G",
+        "dbfId": 73951,
+        "name": "Briny Bootlegger",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 8,
+        "health": 8,
+        "text": "[x]At the end of your turn, if\\nyou control another Pirate,\\nget 2 Gold Coins.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/6ceb9c6ef36c7405df83ca7d9c08871db94746544aa03ab99360b10e4582dc85.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/bd5af9ea42a48c01655201f466adc00e985d6969228042ecf81d487f207bf48e.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG21_017",
+        "dbfId": 72071,
+        "name": "Briny Bootlegger",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 4,
+        "health": 4,
+        "text": "[x]At the end of your turn, if\\nyou control another Pirate,\\nget a Gold Coin.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/c4733fcfe404e74a280e7318956c0322e1220761dbb8d9ec93fd0091eaf4dd74.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "DED_516",
+        "dbfId": 65683,
+        "name": "Deepwater Evoker",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 4,
+        "attack": 3,
+        "health": 4,
+        "text": "[x]<b>Battlecry:<\/b> Draw a spell.\\nGain Armor equal to\\nits Cost.",
+        "flavor": "\"Cap'n! We've hit an iceberg! ...No, it\u2019s not my fault!\"",
+        "artist": "L. Lullabi & K. Turovec",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Mage",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/98e2584eeca03edfcb91d89d2087c71e65c916a62668bc4ec3050b55e4e91285.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "CORE_NEW1_022",
+        "dbfId": 102230,
+        "name": "Dread Corsair",
+        "cardSet": "Unknown",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 4,
+        "attack": 3,
+        "health": 3,
+        "text": "<b>Taunt<\/b>\\nCosts (1) less per Attack of_your weapon.",
+        "flavor": "\"Yarrrr\" is a pirate word that means \"Greetings, milord.\"",
+        "artist": "Trent Kaniuga",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "howToGet": "Unlocked by completing the Tutorial.",
+        "howToGetGold": "Unlocked after 500 total wins.",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/58742fa79b3ce1585b5e90d77c852348a545ec815de90e24a33f392128032286.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Taunt"
+            }
+        ]
+    },
+    {
+        "cardId": "VAN_NEW1_022",
+        "dbfId": 70086,
+        "name": "Dread Corsair",
+        "cardSet": "Vanilla",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 4,
+        "attack": 3,
+        "health": 3,
+        "text": "<b>Taunt<\/b>\\nCosts (1) less per Attack of_your weapon.",
+        "flavor": "\"Yarrrr\" is a pirate word that means \"Greetings, milord.\"",
+        "artist": "Trent Kaniuga",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/f7f19381faf4071a47238263eb504102efde6cd0f7d4cc5b451195ec70f40f9e.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Taunt"
+            }
+        ]
+    },
+    {
+        "cardId": "NEW1_022",
+        "dbfId": 878,
+        "name": "Dread Corsair",
+        "cardSet": "Classic",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 4,
+        "attack": 3,
+        "health": 3,
+        "text": "<b>Taunt<\/b>\\nCosts (1) less per Attack of_your weapon.",
+        "flavor": "\"Yarrrr\" is a pirate word that means \"Greetings, milord.\"",
+        "artist": "Trent Kaniuga",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/70a4c43c86871ce1438ec7dabcb0d1e5914cb1176b772270803f18383431a7ec.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/7c98bd645704c703e609d35d9b43bd86f733278ca5f5ab005f9615bb037a5074.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Taunt"
+            }
+        ]
+    },
+    {
+        "cardId": "DED_510",
+        "dbfId": 65645,
+        "name": "Edwin, Defias Kingpin",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 4,
+        "attack": 4,
+        "health": 4,
+        "text": "[x]<b>Battlecry:<\/b> Draw a card. If you\\nplay it this turn, gain +2\/+2\\nand repeat this effect.",
+        "flavor": "He\u2019s not going to tear down the walls of Stormwind sitting around in the Hall of Fame.",
+        "artist": "Zoltan Boros",
+        "collectible": true,
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/30037aa26f2d3834e74492bc0f9e5521ea7657dca8138bd71cedbac019f37f8e.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "DAL_416",
+        "dbfId": 52112,
+        "name": "Hench-Clan Burglar",
+        "cardSet": "Rise of Shadows",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 4,
+        "attack": 4,
+        "health": 4,
+        "text": "<b>Battlecry:<\/b> <b>Discover<\/b> a spell from another class.",
+        "flavor": "She\u2019s more of a rat burglar.",
+        "artist": "Anton Zemskov",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d4769b238de7c084b8194d53f443de18bd18e3499d4f3f310d7e42a55ca135c3.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a5da58dcbdec8382d74d7f68948b957ab9a4a0240d9515e3926dfcb7478e095d.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            },
+            {
+                "name": "Discover"
+            }
+        ]
+    },
+    {
+        "cardId": "Story_02_HenchClanBurglar",
+        "dbfId": 64670,
+        "name": "Hench-Clan Burglar",
+        "cardSet": "Scholomance Academy",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 4,
+        "attack": 4,
+        "health": 3,
+        "text": "<b>Battlecry:<\/b> <b>Discover<\/b> a spell from another class.",
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Discover"
+            },
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "CORE_DAL_416",
+        "dbfId": 86540,
+        "name": "Hench-Clan Burglar",
+        "cardSet": "Core",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 4,
+        "attack": 4,
+        "health": 4,
+        "text": "<b>Battlecry:<\/b> <b>Discover<\/b> a spell from another class.",
+        "flavor": "She\u2019s more of a rat burglar.",
+        "artist": "Anton Zemskov",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "howToGet": "Unlocked with Rogue class.",
+        "howToGetGold": "Unlocked after winning 50 games as Rogue.",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d4c5a7fe4bf896531b57afb17c8b1558df4db41d76eb6be723a88e23f8087b9d.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Discover"
+            },
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "DRG_055",
+        "dbfId": 55400,
+        "name": "Hoard Pillager",
+        "cardSet": "Descent of Dragons",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 4,
+        "attack": 4,
+        "health": 2,
+        "text": "<b>Battlecry:<\/b> Equip one of your destroyed weapons.",
+        "flavor": "Better to have stabbed and lost. And then found again!",
+        "artist": "A.J. Nazzaro",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/26983f2dcf3735347d6c594dea820e5b2a5074c4245eb2e1727630ca4893982c.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/2874668931afb7190e6b4cc3ff6a3d4261ba9be421aedbfcb374db602fb9bd1f.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "BG26_814",
+        "dbfId": 99011,
+        "name": "Lovesick Balladist",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 3,
+        "health": 4,
+        "text": "<b>Battlecry:<\/b> Give a Pirate\\n+1 Health for each Gold spent this turn.",
+        "artist": "Ivan Fomin",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/cb02f7563f5633604ce20f85666a457c750b014255c2236349d74a3ea635c386.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "BG26_814_G",
+        "dbfId": 99012,
+        "name": "Lovesick Balladist",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 6,
+        "health": 8,
+        "text": "<b>Battlecry:<\/b> Give a Pirate\\n+2 Health for each Gold spent this turn.",
+        "artist": "Ivan Fomin",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/02040957ccf1507ce77260ca2dbc00e215690a95ad8f8f4a1f21436e4a7d300b.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "DED_524",
+        "dbfId": 65704,
+        "name": "Multicaster",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 4,
+        "attack": 3,
+        "health": 4,
+        "text": "[x]<b>Battlecry:<\/b> Draw a card for\\n_each different spell school_\\n_you've cast this game.@ <i>(@)<\/i>",
+        "flavor": "Has a questionable talent tree.",
+        "artist": "Mauricio Herrera",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/63d0e57b1ccf763235053508a7519a052e3e045b101a2e564c27457929dc421f.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "CFM_651",
+        "dbfId": 40889,
+        "name": "Naga Corsair",
+        "cardSet": "Mean Streets of Gadgetzan",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 4,
+        "attack": 5,
+        "health": 4,
+        "text": "<b>Battlecry:<\/b> Give your weapon +1 Attack.",
+        "flavor": "Hook-tails are nice and all but she keeps getting stuck on things.",
+        "artist": "Rafael Zanchetin",
+        "collectible": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Naga"
+        ],
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a76207f7f114c3df3720bad2d9886016e105d2f7f53e2ffdf9dfb85bc52afcf6.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/f08f90cfda9ea4c466f99e7b0a90a9804d3bb750519e8e38ab2e9895dc524233.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "BG21_016_G",
+        "dbfId": 73813,
+        "name": "Peggy Brittlebone",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 12,
+        "health": 10,
+        "text": "After a card is added to your hand, give another friendly Pirate +2\/+2.",
+        "elite": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/b16d286818f9f6a99633b05c6b704e47d8a7378047a710f201279330b1ce35a3.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/3632a5a062b3da241f4b5699c924b0f3c29ab342e2338f2a90f1763cdad8edef.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG21_016",
+        "dbfId": 72070,
+        "name": "Peggy Brittlebone",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 6,
+        "health": 5,
+        "text": "After a card is added to your hand, give another friendly Pirate +1\/+1.",
+        "elite": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/fbd741bbb17c219284d929dbf87abe947e15e4db77ffcb3ea0b4a5ed67accf95.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG25_032",
+        "dbfId": 97535,
+        "name": "Peggy Sturdybone",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 4,
+        "health": 2,
+        "text": "After a card is added to your hand, give another friendly Pirate +1\/+1.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/90ad626f4980c8dec8d725252c011bc78b2f9a8612fb3ab0a520ba1fb8d72266.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG25_032_G",
+        "dbfId": 97536,
+        "name": "Peggy Sturdybone",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 8,
+        "health": 4,
+        "text": "After a card is added to your hand, give another friendly Pirate +2\/+2.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d358ec22b8f0104bd64bbaf3a70953394898dbd3610dbd3061847377efaf5bce.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a550574175376875a594a6547e6d9625613db57bf1a97d6adf824cf6fd5f771c.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "ICC_018",
+        "dbfId": 42327,
+        "name": "Phantom Freebooter",
+        "cardSet": "Knights of the Frozen Throne",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 4,
+        "attack": 3,
+        "health": 3,
+        "text": "<b>Battlecry:<\/b> Gain stats equal to your weapon's.",
+        "flavor": "There's no such thing as a free boot.",
+        "artist": "James Ryman",
+        "collectible": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d756d8e5514c8ce70d202561edb4b7d6ed4fc3564243daaecc46ea8e672ff505.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "CORE_ICC_018",
+        "dbfId": 95733,
+        "name": "Phantom Freebooter",
+        "cardSet": "Unknown",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 4,
+        "attack": 3,
+        "health": 3,
+        "text": "<b>Battlecry:<\/b> Gain stats equal to your weapon's.",
+        "flavor": "There's no such thing as a free boot.",
+        "artist": "James Ryman",
+        "collectible": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Neutral",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "BGS_056",
+        "dbfId": 61056,
+        "name": "Ripsnarl Captain",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 2,
+        "health": 4,
+        "text": "Whenever a friendly Pirate attacks, give it +3 Attack.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d398d43d9c8120bbb23936da7d6d77c074a4efcca4fcb24e8a7c160cbc1e8dd5.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "TB_BaconUps_139",
+        "dbfId": 62257,
+        "name": "Ripsnarl Captain",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 4,
+        "health": 8,
+        "text": "Whenever a friendly Pirate attacks, give it +6 Attack.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/692ad5c2a42241a55e84259c6ac97e7746834ea918b05f0a7731cab1b4897cec.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/4f7e32a03e99a2da4c25353bf6ef7c8ce6d300346ac66fcab0b3ddcd3e1c9be0.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "ULD_280",
+        "dbfId": 54011,
+        "name": "Sahket Sapper",
+        "cardSet": "Saviors of Uldum",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 4,
+        "attack": 4,
+        "health": 4,
+        "text": "<b>Deathrattle:<\/b> Return a _random enemy minion to_ your_opponent's_hand.",
+        "flavor": "\"Here, you dropped this.\"",
+        "artist": "David Kegg",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/19ea3fc7ab55e8a3202281c3454bdca23a35a512113a8a5d7a486151b4ae523f.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/33b11a6c0d6f00ec304a3a7f40cb1dbb96caa9e1696e02a313156ec23c7c541d.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Deathrattle"
+            }
+        ]
+    },
+    {
+        "cardId": "BGS_081",
+        "dbfId": 62734,
+        "name": "Salty Looter",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 4,
+        "health": 5,
+        "text": "Whenever you play a Pirate, gain +1\/+1.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/60f1233c3270a44220c2c9377ed68413e4b51733dc532721e09296c6cdf529dc.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "TB_BaconUps_143",
+        "dbfId": 62739,
+        "name": "Salty Looter",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 8,
+        "health": 10,
+        "text": "Whenever you play a Pirate, gain +2\/+2.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/2f45c03d2ce24706e638d5f2c7cdec603de41aabf3999f3bca78842e2adba37a.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/3ff840654d236be164e9255877cac34218931d47185be150b8aa80aae72d0b54.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "YOD_038",
+        "dbfId": 56307,
+        "name": "Sky Gen'ral Kragg",
+        "cardSet": "Galakrond's Awakening",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 4,
+        "attack": 2,
+        "health": 3,
+        "text": "[x]<b>Taunt<\/b>\\n<b>Battlecry:<\/b> If you've played a\\n<b>Quest<\/b> this game, summon a\\n4\/2 Parrot with <b>Rush<\/b>.",
+        "flavor": "He's gunning for Sky Adm'ral.",
+        "artist": "Alex Horley Orlandelli",
+        "collectible": true,
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/c2f8cb8a11ba614afc51b86770fc5d03e6a7c5742b83b5caf64194447f984ede.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/006ab04495308d4ce430ca0278bf2f55da3df4c6a615aade143b2b6a8d007ca5.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            },
+            {
+                "name": "Taunt"
+            },
+            {
+                "name": "Quest"
+            },
+            {
+                "name": "Rush"
+            }
+        ]
+    },
+    {
+        "cardId": "BAR_081",
+        "dbfId": 63380,
+        "name": "Southsea Scoundrel",
+        "cardSet": "Forged in the Barrens",
+        "type": "Minion",
+        "rarity": "Epic",
+        "cost": 4,
+        "attack": 5,
+        "health": 5,
+        "text": "<b>Battlecry:<\/b> <b>Discover<\/b> a card in your opponent's deck. They draw theirs as well.",
+        "flavor": "\"\u2026and here we see the Southsea Scoundrel in their natural habitat: a den of scum and villainy.\"",
+        "artist": "Adam Byrne",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/5612fa5f5dc727b3eea72b405c6edbe9feadf01780641b8d46fcfdddb4a14645.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Discover"
+            },
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "Story_11_SouthseaPuzzle",
+        "dbfId": 92366,
+        "name": "Southsea Scoundrel",
+        "cardSet": "Forged in the Barrens",
+        "type": "Minion",
+        "rarity": "Epic",
+        "cost": 4,
+        "attack": 5,
+        "health": 5,
+        "text": "<b>Battlecry:<\/b> <b>Discover<\/b> a card in your opponent's deck. They draw theirs as well.",
+        "flavor": "\"\u2026and here we see the Southsea Scoundrel in their natural habitat: a den of scum and villainy.\"",
+        "artist": "Adam Byrne",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Discover"
+            },
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "OG_267",
+        "dbfId": 38825,
+        "name": "Southsea Squidface",
+        "cardSet": "Whispers of the Old Gods",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 4,
+        "attack": 4,
+        "health": 4,
+        "text": "<b>Deathrattle:<\/b> Give your weapon +2 Attack.",
+        "flavor": "Quick! Before I drown! Let me sharpen your sword for you.",
+        "artist": "Mike Sass",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/de6bac23302f76bc34196a42f14360c8814d550e096f61cd46a83e52c31e125a.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Deathrattle"
+            }
+        ]
+    },
+    {
+        "cardId": "DED_511",
+        "dbfId": 65655,
+        "name": "Suckerhook",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 4,
+        "attack": 3,
+        "health": 6,
+        "text": "[x]At the end of your turn,\\ntransform your weapon into\\none that costs (1) more.",
+        "flavor": "A moderately better dining companion than Suckerbeard.",
+        "artist": "Ian Ameling",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Shaman",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/3d0ee41137a8973242ca02ad7ef215ba44406df5079b8d1587a29766419b1721.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "DMF_521",
+        "dbfId": 61237,
+        "name": "Sword Eater",
+        "cardSet": "Madness At The Darkmoon Faire",
+        "type": "Minion",
+        "faction": "Neutral",
+        "rarity": "Common",
+        "cost": 4,
+        "attack": 2,
+        "health": 5,
+        "text": "<b>Taunt<\/b>\\n<b>Battlecry:<\/b> Equip a 3\/2_Sword.",
+        "flavor": "How tough is he? He eats swords for breakfast! Without any milk.",
+        "artist": "Mike Sass",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/1fce4a9d4f4acaa9b446e71f0a2a83d3ff7e588f6fd4ad1c2bd02cbdbf128ce1.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Taunt"
+            },
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "CORE_DMF_521",
+        "dbfId": 102214,
+        "name": "Sword Eater",
+        "cardSet": "Unknown",
+        "type": "Minion",
+        "faction": "Neutral",
+        "rarity": "Common",
+        "cost": 4,
+        "attack": 2,
+        "health": 5,
+        "text": "<b>Taunt<\/b>\\n<b>Battlecry:<\/b> Equip a 3\/2_Sword.",
+        "flavor": "How tough is he? He eats swords for breakfast! Without any milk.",
+        "artist": "Mike Sass",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "howToGet": "Unlocked with Warrior class.",
+        "howToGetGold": "Unlocked after winning 50 games as Warrior.",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/b322cfc9ffebdbb583f49a789a659533ee82eb60ff032edc548c54ba90e12f6a.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Taunt"
+            },
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "TRL_015",
+        "dbfId": 49066,
+        "name": "Ticket Scalper",
+        "cardSet": "Rastakhan's Rumble",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 4,
+        "attack": 5,
+        "health": 3,
+        "text": "<b>Overkill<\/b>: Draw 2 cards.",
+        "flavor": "Takes ten percent off the top.",
+        "artist": "David Kegg",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/269aeaa4e308e71ba0d14318f9e7fefed611bdf75f0f57b28713147514f65c4a.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/75e37009cc2c8cb6f8eae7116e2f11e3015377fc108b6ec629874f5f9d708fde.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Overkill"
+            }
+        ]
+    },
+    {
+        "cardId": "GILA_611",
+        "dbfId": 49488,
+        "name": "Tuskarr Raider",
+        "cardSet": "The Witchwood",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 3,
+        "health": 9,
+        "text": "<b>Rush<\/b>\\nAfter this minion attacks, fire your Cannons.",
+        "artist": "Mark Gibbons",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Rush"
+            }
+        ]
+    },
+    {
+        "cardId": "PVPDR_Darius_T3",
+        "dbfId": 85351,
+        "name": "Tuskarr Raider",
+        "cardSet": "Tavern Brawl",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 3,
+        "health": 9,
+        "text": "<b>Rush<\/b>\\nAfter this minion attacks, fire your Cannons.",
+        "flavor": "Cannons go brrrrrrr",
+        "artist": "Mark Gibbons",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/fd2a76d6aff7626fc5d9f35d0b429c2ffc6166be599be6110f8b1e1d9d11ee82.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Rush"
+            }
+        ]
+    },
+    {
+        "cardId": "TSC_933",
+        "dbfId": 72480,
+        "name": "Bootstrap Sunkeneer",
+        "cardSet": "Voyage to the Sunken City",
+        "type": "Minion",
+        "rarity": "Epic",
+        "cost": 5,
+        "attack": 4,
+        "health": 4,
+        "text": "[x]<b>Combo:<\/b> Put an enemy\\nminion on the bottom of\\n_your opponent's deck.",
+        "flavor": "Part of the deck, part of the crew.",
+        "artist": "Dave Allsop",
+        "collectible": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/2fbb41a560f447cfa574108685bd90f0fe49170e8095f49c7106aca17a954ae1.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Combo"
+            }
+        ]
+    },
+    {
+        "cardId": "SW_028t5",
+        "dbfId": 67551,
+        "name": "Cap'n Rokara",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 7,
+        "health": 7,
+        "text": "<b>Battlecry:<\/b> Summon The Juggernaut!",
+        "artist": "Hideaki Takamura",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/8c33b4a7d45ee6f40c91c8aa93709db6b70f823b9848f183b109389dfca6747a.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "VAN_NEW1_024",
+        "dbfId": 70088,
+        "name": "Captain Greenskin",
+        "cardSet": "Vanilla",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 5,
+        "attack": 5,
+        "health": 4,
+        "text": "<b>Battlecry:<\/b> Give your weapon +1\/+1.",
+        "flavor": "He was <i>this close<\/i> to piloting a massive juggernaut into Stormwind Harbor. If it weren't for those pesky kids!",
+        "artist": "Dan Scott",
+        "collectible": true,
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/66da2f3b6ec9f9c02da467f32b27cf1f16ce6ef1a2bc43d9ee874b99ac3f2cb8.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "NEW1_024",
+        "dbfId": 456,
+        "name": "Captain Greenskin",
+        "cardSet": "Classic",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 5,
+        "attack": 5,
+        "health": 4,
+        "text": "<b>Battlecry:<\/b> Give your weapon +1\/+1.",
+        "flavor": "He was <i>this close<\/i> to piloting a massive juggernaut into Stormwind Harbor. If it weren't for those pesky kids!",
+        "artist": "Dan Scott",
+        "collectible": true,
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/b8cb57de7b92d7dfcaff11358f80e682d13962b85aecb07a6d624e77d809d85f.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/4371171684c9e652f345daa788fcd3bd4f010b0b633eba2c3c53f839df0c9677.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "DED_007",
+        "dbfId": 65601,
+        "name": "Defias Blastfisher",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 5,
+        "attack": 3,
+        "health": 2,
+        "text": "[x]<b>Battlecry:<\/b> Deal 2 damage\\nto a random enemy. Repeat\\nfor each of your Beasts.",
+        "flavor": "She's a dynamite fishing trainer.",
+        "artist": "Dave Allsop",
+        "collectible": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Hunter",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/86532d1df532bd9de8a8b1860a2983460ecaf4c2227ca69f96cdb70993346362.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "TSC_007",
+        "dbfId": 71695,
+        "name": "Gangplank Diver",
+        "cardSet": "Voyage to the Sunken City",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 5,
+        "attack": 6,
+        "health": 4,
+        "text": "<b>Dormant<\/b> for 1 turn.\\n<b>Rush<\/b>. <b>Immune<\/b> while attacking.",
+        "flavor": "Cownonball!",
+        "artist": "Konstantin Porubov",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/2c6d2c54eac5e467c7e5028362119f8306a2611b08efca49ad3675fac825ff17.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Rush"
+            },
+            {
+                "name": "Dormant"
+            }
+        ]
+    },
+    {
+        "cardId": "BGS_066",
+        "dbfId": 61066,
+        "name": "Goldgrubber",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 4,
+        "health": 4,
+        "text": "At the end of your turn, gain +2\/+2 for each friendly Golden minion.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/8291195805f118de94ef49009993cfe67a06196937bcaa0546702cff830677ec.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "TB_BaconUps_130",
+        "dbfId": 62194,
+        "name": "Goldgrubber",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 8,
+        "health": 8,
+        "text": "At the end of your turn, gain +4\/+4 for each friendly Golden minion.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/23d417aa8697366085020cdfa0cd4e5b9998c041b931696e8e3fda2c61478c8c.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/8ef1096f6f5c187247207c622e7e22cceea6bf5226097def07b393a44e36936b.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "DRG_082",
+        "dbfId": 55432,
+        "name": "Kobold Stickyfinger",
+        "cardSet": "Descent of Dragons",
+        "type": "Minion",
+        "rarity": "Epic",
+        "cost": 5,
+        "attack": 4,
+        "health": 4,
+        "text": "<b>Battlecry:<\/b> Steal your opponent's weapon.",
+        "flavor": "He no take candle. He take sword.",
+        "artist": "Andrew Hou",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/84a9a685cf57b38183e43ddccf19ce8fcee8a3fbe67d1006b0e3a841bd28f2a2.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/024162bddd452c136151595c0529f4f88bb06c1f838bcf6001d410909f121d36.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "BG26_018",
+        "dbfId": 101180,
+        "name": "Rapscallion Recruiter",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 9,
+        "health": 3,
+        "text": "<b>Deathrattle:<\/b> Summon\\n3 Scallywags.",
+        "artist": "Angelo Bortolini",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/cc20efff23f9cb0dcb470e7da84a5a55975cdf7786231c9b7ae53037fca3812b.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Deathrattle"
+            }
+        ]
+    },
+    {
+        "cardId": "BG26_018_G",
+        "dbfId": 101181,
+        "name": "Rapscallion Recruiter",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 18,
+        "health": 6,
+        "text": "<b>Deathrattle:<\/b> Summon\\n3 Golden Scallywags.",
+        "artist": "Angelo Bortolini",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/967992043a958714c9bdde11f75a68b55eb9c01cfa13e017e5f7330ccfe96d3a.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Deathrattle"
+            }
+        ]
+    },
+    {
+        "cardId": "BG26_812",
+        "dbfId": 98910,
+        "name": "Record Smuggler",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 5,
+        "health": 4,
+        "text": "[x]At the start of your turn,\\ngain 1 Gold. Repeat for\\neach other friendly Pirate.",
+        "artist": "Kevin Sidharta",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/9fe921d95443298b93dfc7f6b69002790827093bb8f933da27bf16b9cd0ac364.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG26_812_G",
+        "dbfId": 98911,
+        "name": "Record Smuggler",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 10,
+        "health": 8,
+        "text": "[x]At the start of your turn,\\ngain 2 Gold. Repeat for\\neach other friendly Pirate.",
+        "artist": "Kevin Sidharta",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/de785c122c16d1baf52376d05e15d99f7c13d5f44b057bc14f6e76994b790673.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "GVG_070",
+        "dbfId": 2038,
+        "name": "Salty Dog",
+        "cardSet": "Goblins vs Gnomes",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 5,
+        "attack": 7,
+        "health": 4,
+        "flavor": "He's recently recovered from being a \"scurvy dog.\"",
+        "artist": "Alex Horley Orlandelli",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/92844474a7ff1bb11e11e39caf1f7cd71a371d0f12846b65b35a565bea8d6939.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BGS_048",
+        "dbfId": 61048,
+        "name": "Southsea Strongarm",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 4,
+        "health": 3,
+        "text": "[x]<b>Battlecry:<\/b> Give a friendly\\nPirate +1\/+1. Repeat for\\neach Pirate you bought\\nthis turn.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/5928cae572cc62bd11cf66970a7e6b7d88482117a08a4f6ae7bb76265787f371.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "TB_BaconUps_140",
+        "dbfId": 62259,
+        "name": "Southsea Strongarm",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 8,
+        "health": 6,
+        "text": "[x]<b>Battlecry:<\/b> Give a friendly\\nPirate +2\/+2. Repeat for\\neach Pirate you bought\\nthis turn.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/94dd555e1d5be7f4b94c16aa90a168c9dfdd71282d2a7a39e35757c4a6d081f3.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/27154fda61115ffe08b2775b854d18071153ab049bd85e104a206efd9d93f084.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "BG28_903",
+        "dbfId": 105424,
+        "name": "Spellbound Seafarer",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 4,
+        "health": 5,
+        "text": "After you buy 3 cards,\\nget a random Tavern spell.\\n<i>(@ left!)<\/i>",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/9bff0bf24a74e1ebb9085c23e19ba82c77b00efe381a4414f6f6e208b2af2ea1.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG28_903_G",
+        "dbfId": 105425,
+        "name": "Spellbound Seafarer",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 8,
+        "health": 10,
+        "text": "After you buy 3 cards, get\\n2 random Tavern spells.\\n<i>(@ left!)<\/i>",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/50f585650fa6cbb083f62636d8a8232d54199982afed2350c2b1a59217e1acc2.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BAR_896",
+        "dbfId": 63701,
+        "name": "Stonemaul Anchorman",
+        "cardSet": "Forged in the Barrens",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 5,
+        "attack": 4,
+        "health": 6,
+        "text": "[x]<b>Rush<\/b>\\n<b>Frenzy:<\/b> Draw a card.",
+        "flavor": "\"Brug will read anything you put on the parchment prompter. Anything.\"",
+        "artist": "Matt Dixon",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Warrior",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/776136a25e95da911b347153094b298732d14c93d838d63a7120de4de52986a8.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Frenzy"
+            },
+            {
+                "name": "Rush"
+            }
+        ]
+    },
+    {
+        "cardId": "BG21_031",
+        "dbfId": 74933,
+        "name": "Tony Two-Tusk",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 4,
+        "health": 6,
+        "text": "[x]<b>Avenge (4):<\/b> Make\\nanother friendly Pirate\\nGolden permanently.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/25959f0ae7f6559d9381dc9c0d844f9073747f8f90b8dad8c0eb354116ee0535.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Avenge (X)"
+            }
+        ]
+    },
+    {
+        "cardId": "BG21_031_G",
+        "dbfId": 74934,
+        "name": "Tony Two-Tusk",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 8,
+        "health": 12,
+        "text": "[x]<b>Avenge (4):<\/b> Make\\n2 other friendly Pirates\\nGolden permanently.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/518ee1cc3336aa78d6a3834098c601fea7f8f35fb827958bf7b6383d1749b4b1.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/3a5b55cd3a1b832f4aae62d5adfb848afeb32cd4661b3fd8b1e5df6f869a2021.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Avenge (X)"
+            }
+        ]
+    },
+    {
+        "cardId": "TB_BaconShop_HERO_18_Buddy",
+        "dbfId": 77815,
+        "name": "Tuskarr Raider",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 4,
+        "health": 4,
+        "text": "<b>Battlecry:<\/b> Give a minion +1\/+1 for each Pirate you played this game.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "TB_BaconShop_HERO_18_Buddy_G",
+        "dbfId": 77816,
+        "name": "Tuskarr Raider",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 8,
+        "health": 8,
+        "text": "<b>Battlecry:<\/b> Give a minion +2\/+2 for each Pirate you played this game.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "BG26_815",
+        "dbfId": 99014,
+        "name": "Underhanded Dealer",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 4,
+        "health": 4,
+        "text": "After you gain Gold,\\ngain +1\/+1.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/b56da4cd5032149369949dcadfcda907044e9aa8a27e05190a0b6dbfc966c1a5.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG26_815_G",
+        "dbfId": 99015,
+        "name": "Underhanded Dealer",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 8,
+        "health": 8,
+        "text": "After you gain Gold,\\ngain +2\/+2.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/e9f6f3f96adcfc137b1812947426b4322bd98f1b618b1ba9f2838a3600132e41.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG26_124",
+        "dbfId": 98032,
+        "name": "Upbeat Impressionist",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 8,
+        "health": 4,
+        "text": "[x]At the end of every 2 turns,\\nmake a random Pirate\\nin your hand Golden.\\n<i>({0} |4(turn, turns) left!)<\/i>@[x]At the end of every 2 turns,\\nmake a random Pirate\\nin your hand Golden.\\n<i>(End of this turn!)<\/i>",
+        "artist": "Valeria Styajkina",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/31e365db1f0d1c700c1f81f97abce86aa2c9da738b65bdba5d2739842b9b2ca6.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG26_124_G",
+        "dbfId": 98033,
+        "name": "Upbeat Impressionist",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 16,
+        "health": 8,
+        "text": "[x]At the end of every 2 turns,\\nmake 2 random Pirates\\nin your hand Golden.\\n<i>({0} |4(turn, turns) left!)<\/i>@[x]At the end of every 2 turns,\\nmake 2 random Pirates\\nin your hand Golden.\\n<i>(End of this turn!)<\/i>",
+        "artist": "Valeria Styajkina",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/ab86bf5ac143eed415384fb11c9f2acf162f3e390f5511a625538e15c89d4b1b.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG24_708",
+        "dbfId": 97270,
+        "name": "Vanessa VanCleef",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 3,
+        "health": 7,
+        "text": "Whenever this attacks, give your Pirates +2\/+1 permanently.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/0d8069684d5c20b21a8ef4767e6254e82590e49120efb9f8c125b0c374b74191.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG24_708_G",
+        "dbfId": 97279,
+        "name": "Vanessa VanCleef",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 6,
+        "health": 14,
+        "text": "Whenever this attacks, give your Pirates +4\/+2 permanently.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/eea1ec4cde4a7cb24356818407ae186a8dd7ca37648eea0cb8e20a3f71e9dc37.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/48102949aab16592e5e01805d8c2e152cc4893412346341710029fa61b5df863.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "DED_500",
+        "dbfId": 65579,
+        "name": "Wealth Redistributor",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 5,
+        "attack": 2,
+        "health": 8,
+        "text": "[x]<b>Taunt<\/b>. <b>Battlecry:<\/b> Swap the\\nAttack of the highest and\\nlowest Attack minion.",
+        "flavor": "WOULD YE LIKE CASH BACK?\\n[  ] YAR HAR        [  ] YO HO",
+        "artist": "Vladimir Kafanov",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Paladin",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d95bb1f2e400a92a249c9f4ee773d21bd7708bab5a9ae6e71f8fc0ff447f3fdc.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            },
+            {
+                "name": "Taunt"
+            }
+        ]
+    },
+    {
+        "cardId": "BG27_555",
+        "dbfId": 106852,
+        "name": "Admiral Eliza Goreblade",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 6,
+        "attack": 6,
+        "health": 7,
+        "text": "Whenever a friendly Pirate attacks, give all friendly minions +3\/+1.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/45559d1a28a7ea15964bf798a8eb51e8d9b097181bae8ea4e0cd827b528afaf7.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG27_555_G",
+        "dbfId": 106854,
+        "name": "Admiral Eliza Goreblade",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 6,
+        "attack": 12,
+        "health": 14,
+        "text": "Whenever a friendly Pirate attacks, give all friendly minions +6\/+2.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/4b28990a9c06e20358e0f1c28e37b4c3bf3acf086729751cc224c93518b9d9e7.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "TB_BaconUps_133",
+        "dbfId": 62224,
+        "name": "Cap'n Hoggarr",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 6,
+        "attack": 12,
+        "health": 12,
+        "text": "[x]Whenever you buy a Pirate,\\ngain 2 Gold.",
+        "artist": "Rafael Zanchetin",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BGS_072",
+        "dbfId": 61989,
+        "name": "Cap'n Hoggarr",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 6,
+        "attack": 6,
+        "health": 6,
+        "text": "[x]Whenever you buy a Pirate,\\ngain 1 Gold.",
+        "artist": "Rafael Zanchetin",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "GIL_557",
+        "dbfId": 47071,
+        "name": "Cursed Castaway",
+        "cardSet": "The Witchwood",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 6,
+        "attack": 5,
+        "health": 3,
+        "text": "<b>Rush<\/b>\\n<b>Deathrattle:<\/b> Draw a <b>Combo<\/b> card from your deck.",
+        "flavor": "She was an ordinary castaway... until she found that cursed volleyball.",
+        "artist": "Tyler West Studio",
+        "collectible": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/9cc0b283b538f2aa408ac6093e4f040e5a842984118c34f2a9dab46d4b4d2232.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/b8c1295bf59588ca981e754d65df0ecc165f15b81879b3f2d5be6f361750ed62.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Rush"
+            },
+            {
+                "name": "Deathrattle"
+            },
+            {
+                "name": "Combo"
+            }
+        ]
+    },
+    {
+        "cardId": "BGS_047",
+        "dbfId": 61047,
+        "name": "Dread Admiral Eliza",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 6,
+        "attack": 6,
+        "health": 7,
+        "text": "Whenever a friendly minion attacks, give your minions +1\/+1.",
+        "elite": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/63f202267afb431be83676acb06cc387303fd51692e70dd7f30ef88d366f29f3.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "TB_BaconUps_134",
+        "dbfId": 62228,
+        "name": "Dread Admiral Eliza",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 6,
+        "attack": 12,
+        "health": 14,
+        "text": "Whenever a friendly minion attacks, give your minions +2\/+2.",
+        "elite": true,
+        "race": "Pirate",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/426021c28fef113910ec59f224ebbfcff4f64b95a0f4454505e738e2c282aecd.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/cad2d40f9523f444f58d88de97cf2d07614d4b1360cb0874d438c0c019379c6b.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG26_766",
+        "dbfId": 101122,
+        "name": "Fleet Admiral Tethys",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 6,
+        "attack": 5,
+        "health": 6,
+        "text": "[x]After you spend 9 Gold,\\nget a random Pirate.\\n<i>(@ Gold left!)<\/i>",
+        "artist": "Sergey Tsvelykh",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/debcfa6557ee13cf67c3e84e622fd7a2dec4c0d5d87f6f91b4e12e2bea58360c.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG26_766_G",
+        "dbfId": 101123,
+        "name": "Fleet Admiral Tethys",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 6,
+        "attack": 10,
+        "health": 12,
+        "text": "[x]After you spend 9 Gold,\\nget 2 random Pirates.\\n<i>(@ Gold left!)<\/i>",
+        "artist": "Sergey Tsvelykh",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/91072197d9f4920887664bad4999a8eaed403bb48d787de0e45ecee0ed5fb783.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "CFM_342",
+        "dbfId": 40791,
+        "name": "Luckydo Buccaneer",
+        "cardSet": "Mean Streets of Gadgetzan",
+        "type": "Minion",
+        "rarity": "Epic",
+        "cost": 6,
+        "attack": 5,
+        "health": 5,
+        "text": "<b>Battlecry:<\/b> If your weapon has at least 3 Attack, gain +4\/+4.",
+        "flavor": "You can't just leave a Luckydo somewhere.  You gotta keep 'em with you!  Especially in Gadgetzan!",
+        "artist": "Mark Gibbons",
+        "collectible": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a668200133c4dffa1c165551f64937fb79b5dcee8bb96f21713903f84b5c6961.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/f9a5f7f46ce60ea533c441cafb5e948fd94e1c845221d11978f147b39ec869f0.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "BG21_019",
+        "dbfId": 72053,
+        "name": "Nosy Looter",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 6,
+        "attack": 9,
+        "health": 8,
+        "text": "[x]Every two turns, get a\\nrandom Golden minion.\\n<i>(@ |4(turn, turns) left!)<\/i>",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/b3cee74c4069e5724e5c4773bbd004f6a2c1c01b24e21a19dbd031051772a810.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BG21_019_G",
+        "dbfId": 73504,
+        "name": "Nosy Looter",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 6,
+        "attack": 18,
+        "health": 16,
+        "text": "[x]At the start of your turn, get\\na random Golden minion.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/8d69ed12c51ab4738369f08b4196a41d5a557297970980a025c40dfbb7125630.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/662c0948c8f9ddc10438b2fe62a88365940a3b03e645535bbecd574fefe04ae7.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "TRLA_193",
+        "dbfId": 53032,
+        "name": "Raging Contender",
+        "cardSet": "Rastakhan's Rumble",
+        "type": "Minion",
+        "cost": 6,
+        "attack": 8,
+        "health": 4,
+        "text": "<b>Rush<\/b>\\n<b>Deathrattle:<\/b> Fill your board with random Pirates.",
+        "artist": "Matt Dixon",
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Rush"
+            },
+            {
+                "name": "Deathrattle"
+            }
+        ]
+    },
+    {
+        "cardId": "TRLA_190",
+        "dbfId": 53028,
+        "name": "Salty Looter",
+        "cardSet": "Rastakhan's Rumble",
+        "type": "Minion",
+        "cost": 6,
+        "attack": 6,
+        "health": 6,
+        "text": "<b>Battlecry<\/b> and <b>Deathrattle:<\/b> Steal a card from your opponent's hand.",
+        "artist": "A. J. Nazzaro",
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            },
+            {
+                "name": "Deathrattle"
+            }
+        ]
+    },
+    {
+        "cardId": "TB_BaconUps_150",
+        "dbfId": 63782,
+        "name": "Yo-Ho-Ogre",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 6,
+        "attack": 6,
+        "health": 12,
+        "text": "[x]<b>Taunt<\/b>\\nAfter this minion survives\\nbeing attacked,\\nattack immediately.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/4d74cc4afe0ff67275aa36ba1222a44a8dafa243f2205b91a547351ed2e0f7bb.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/052f04c7179af286d0b37d32ab9ab89b74f80452c7b866cd4b49ce61edfca73f.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Taunt"
+            }
+        ]
+    },
+    {
+        "cardId": "BGS_060",
+        "dbfId": 61060,
+        "name": "Yo-Ho-Ogre",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 6,
+        "attack": 3,
+        "health": 6,
+        "text": "[x]<b>Taunt<\/b>\\nAfter this minion survives\\nbeing attacked,\\nattack immediately.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/588af27c640c4788a6335bfc25f4c2d7975df07a33a36d78e0d86941bafc8786.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Taunt"
+            }
+        ]
+    },
+    {
+        "cardId": "BG25_034",
+        "dbfId": 97539,
+        "name": "Captain Sanders",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 7,
+        "attack": 7,
+        "health": 7,
+        "text": "<b>Battlecry:<\/b> Make a friendly minion Golden.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/8cf02e52459d072bf0bf675d6c88bc5f6a2dc1f3ae5a05048074ce49a0c4e93a.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "BG25_034_G",
+        "dbfId": 97540,
+        "name": "Captain Sanders",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 7,
+        "attack": 14,
+        "health": 14,
+        "text": "<b>Battlecry:<\/b> Make a friendly minion Golden.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/6f5ba74c294b9edb5f3d9035fcd2ad191fb84e1a3b0d79a8009d2e19084431df.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "DED_006",
+        "dbfId": 65599,
+        "name": "Mr. Smite",
+        "cardSet": "United in Stormwind",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 7,
+        "attack": 6,
+        "health": 5,
+        "text": "Your Pirates have <b>Charge<\/b>.",
+        "flavor": "\u201cPlease, Mr. Smite was my father. Call me Yorik.\u201d",
+        "artist": "James Ryman",
+        "collectible": true,
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/505e46e7d779f0383bae570563fd79928c8c447e68bb7a3021002aca9e49bffd.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Aura"
+            },
+            {
+                "name": "Charge"
+            }
+        ]
+    },
+    {
+        "cardId": "BGS_046",
+        "dbfId": 61046,
+        "name": "Nat Pagle, Extreme Angler",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 7,
+        "attack": 8,
+        "health": 5,
+        "text": "[x]When this attacks\\nand kills a minion,\\nget a random minion.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/ddcb63568a6035b10110af1ddc680710f9b89503f41aa55773b0de47e29606ec.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "TB_BaconUps_132",
+        "dbfId": 62217,
+        "name": "Nat Pagle, Extreme Angler",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 7,
+        "attack": 16,
+        "health": 10,
+        "text": "[x]When this attacks\\nand kills a minion,\\n__get 2 random minions.",
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/0ff1e9e031db36523d884cd021d0ede751db55e26cc920bd2088889b7fb8b9a3.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/835b324a582fc8a29034f156b6aba51c3d83101a8aecfdf03d683270a99acb08.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "BGS_080",
+        "dbfId": 62458,
+        "name": "Seabreaker Goliath",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 7,
+        "attack": 6,
+        "health": 7,
+        "text": "<b>Windfury<\/b>\\n<b>Overkill:<\/b> Give your other Pirates +2\/+2.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d51e9e3a45cfa654c4e7d595b9853ef403c846cda0281b91c2929918b5183057.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Overkill"
+            },
+            {
+                "name": "Windfury"
+            }
+        ]
+    },
+    {
+        "cardId": "TB_BaconUps_142",
+        "dbfId": 62460,
+        "name": "Seabreaker Goliath",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 7,
+        "attack": 12,
+        "health": 14,
+        "text": "<b>Mega-Windfury<\/b>\\n<b>Overkill:<\/b> Give your other Pirates +4\/+4.",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d6ea07543eca4c3f4d77bb92e9c60f169a63aea81eb743035f27abbfeb4e537b.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/db9fd011d89cf95b5d1df7642f954af8a42218fd9089f7d3db45f0aac4d260fc.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Overkill"
+            },
+            {
+                "name": "Windfury"
+            }
+        ]
+    },
+    {
+        "cardId": "AT_070",
+        "dbfId": 2757,
+        "name": "Skycap'n Kragg",
+        "cardSet": "The Grand Tournament",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 7,
+        "attack": 4,
+        "health": 6,
+        "text": "<b>Charrrrrge<\/b>\\nCosts (1) less for each friendly Pirate.",
+        "flavor": "What's more boss than riding a parrot with a jawbone for a shoulderpad while wielding a giant hook-lance-thing and wearing a pirate hat?  NOTHING.",
+        "artist": "Alex Horley Orlandelli",
+        "collectible": true,
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/0eb938cca5d15e479f7eedcd4d96111b8b0c7a4799e022819e49ffff28f3a03c.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Charge"
+            }
+        ]
+    },
+    {
+        "cardId": "ETC_541",
+        "dbfId": 92237,
+        "name": "Tony, King of Piracy",
+        "cardSet": "Festival of Legends",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 7,
+        "attack": 4,
+        "health": 6,
+        "text": "<b>Battlecry:<\/b> Replace your deck with a copy of your opponent's.\\n<b>Finale:<\/b> Draw a card.",
+        "flavor": "Tony prefers sailing on torrents rather than streams.",
+        "artist": "A.J. Nazzaro",
+        "collectible": true,
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "howToGetSignature": "Obtainable in <i>Festival of Legends<\/i> card packs.",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/470fb2ac2f03d1aa01f6b9e34c87fa635e9fd18292180d69fed4cb44b4d87af5.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Finale"
+            },
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "TRL_126",
+        "dbfId": 50774,
+        "name": "Captain Hooktusk",
+        "cardSet": "Rastakhan's Rumble",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 8,
+        "attack": 6,
+        "health": 3,
+        "text": "<b>Battlecry:<\/b> Summon 3 Pirates from your deck. Give them <b>Rush<\/b>.",
+        "flavor": "\"You three! Get in the cannon!\"",
+        "artist": "Matt Dixon",
+        "collectible": true,
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/661429baa428c5a2a94dddacc2eece2f022d1bc22a01ee2903ba7b8423f959f9.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/af99c866b9090313ba61cf5f524394320d8cc9fb532accad2a364a7e2faf7f1f.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "TSC_934",
+        "dbfId": 72495,
+        "name": "Pirate Admiral Hooktusk",
+        "cardSet": "Voyage to the Sunken City",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 8,
+        "attack": 8,
+        "health": 8,
+        "text": "<b>Battlecry:<\/b> If you've summoned 8 other Pirates this game, plunder the enemy!@ <i>({0} left!)<\/i>@ <i>(Ready!)<\/i>",
+        "flavor": "You win some, you ransom.",
+        "artist": "Anton Zemskov",
+        "collectible": true,
+        "elite": true,
+        "race": "Pirate",
+        "playerClass": "Rogue",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a88a0b8abca68275e9bda83e61ea929cb60fca328d66e3c3dc57e47d5b750f3b.png",
+        "locale": "enUS",
+        "mechanics": [
+            {
+                "name": "Battlecry"
+            }
+        ]
+    },
+    {
+        "cardId": "PVPDR_Darius_T4",
+        "dbfId": 85352,
+        "name": "Seabreaker Goliath",
+        "cardSet": "Tavern Brawl",
+        "type": "Minion",
+        "cost": 10,
+        "attack": 15,
+        "health": 15,
+        "text": "Costs (1) less for each time you've fired your Cannons.",
+        "flavor": "4 Mana 7\/7, try a 0 Mana 15\/15",
+        "artist": "Rafael Zanchetin",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/590220da6cd63291b614beac8228de2b5ee9b6adda314a4897c2d6a3ea487008.png",
+        "locale": "enUS"
+    },
+    {
+        "cardId": "GILA_612",
+        "dbfId": 49491,
+        "name": "Seabreaker Goliath",
+        "cardSet": "The Witchwood",
+        "type": "Minion",
+        "cost": 10,
+        "attack": 15,
+        "health": 15,
+        "text": "Costs (1) less for each time you've fired your Cannons.",
+        "artist": "Rafael Zanchetin",
+        "race": "Pirate",
+        "playerClass": "Neutral",
+        "locale": "enUS"
+    }
+]
+
+
+
+
