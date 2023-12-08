@@ -6,15 +6,8 @@ body {
     background-color: black;
 } 
 
-.imgCard {
-    text-align: center;
-    margin-bottom: 20px;
-}
 
-.cardContent {
-    text-align: center;
-    display: block;
-}
+
 
 .navbar {
     display: flex;
@@ -249,4 +242,38 @@ select:hover{
     font-size: 23px;
     margin-top: 30px;
 }
+
+.cardContent {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    flex-direction: row; /* Imposta la direzione in fila (orizzontale) */
+    align-items: center; /* Allinea gli elementi lungo l'asse verticale */
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+/* i colori qua sotto sono stati utilizzati solo per visualizzare meglio
+come si comportavano i div */
+.infoCard {
+    text-align: left;
+    padding: 80px;
+    max-width: 300;
+    color: orange;
+    background-color: aqua; 
+}
+
+
+.imgCard{
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+    margin-right: 50px;
+    background-color: orange;
+}
+
+.imgCard img {
+
+}
+
 

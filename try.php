@@ -14,16 +14,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["race"])) {
     $selectedOption = $_POST["race"];
 }
 
-$baseUrl = "https://omgvamp-hearthstone-v1.p.rapidapi.com/cards/races/";
-$url = $baseUrl . strtolower($selectedOption);
+$baseUrl = "https://omgvamp-hearthstone-v1.p.rapidapi.com/cards/races/$selectedOption?locale=itIT";
+// $url = $baseUrl . strtolower($selectedOption);
 $curl = curl_init();
 
-echo $url;
 //se alla fine del link che trovi qua sotto sostituisci l'ultima
 //parola(Pirates), e inserisci un'altro tipo(tutti i tipi li vedi
 //in home.html nella parte del form dove ci sono gli input). ciao frocio
 curl_setopt_array($curl, [
-	CURLOPT_URL => $url,
+	CURLOPT_URL => $baseUrl,
 	CURLOPT_RETURNTRANSFER => true,
 	CURLOPT_ENCODING => "",
 	CURLOPT_MAXREDIRS => 10,
@@ -67,25 +66,50 @@ if ($err) {
 	foreach ($json_data as $element) {
     	// if (isset($element['cardId']) && $element['cardId'] === $desired_id) {
 			if($element['type'] === 'Minion'){
+				if($element['cardSet'] === 'Battlegrounds'){
 				if (isset($element['img'])) {
 	
 					$cleaned_url = stripslashes($element['img']);
-			
-	
-					echo "<div class='imgCard'><img src='" . $cleaned_url . "' alt='Immagine della Carta'>";
+				
 				} else {
-					echo "Immagine non disponibile.";
+					$cleaned_url = "Immagine Non Disponibile";
 				}
-				echo "<div class='cardContent'>
-				<p>Name: {$element['name']}</p>
-				<p>Tribe: {$element['race']}</p>
-				<p>Descrizione: {$element['text']}</p>
-				<p>Flavor: {$element['flavor']}</p>
+				if (isset($element['text'])) {
 	
+					$text = stripslashes($element['text']);
+				
+				} else {
+					$text = "Descrizione Non Disponibile";
+				}
+				if (isset($element['falvor'])) {
 	
-				  </div>";
+					$flavor = stripslashes($element['flavor']);
+				
+				} else {
+					$flavor = "Flavor Non Disponibile";
+				}
+				if (isset($element['race'])) {
+	
+					$race = stripslashes($element['race']);
+				
+				} else {
+					$race = "Tipo della carta non disponibile";
+				}
+				echo "
+				<div class='cardContent'>
+					<div class='imgCard'>
+						<img src='" . $cleaned_url . "' alt='Caricamento immagine non riuscita'>
+					</div>
+					<div class='infoCard'> 
+						<p>Name: {$element['name']}</p>
+						<p>Tribe: {$race}</p>
+						<p>Descrizione: {$text}</p>
+						<p>Flavor: {$flavor}</p>
+					</div>
+				</div>";
 
 			}
+		}
 	
 			
     	}
