@@ -3,7 +3,6 @@ body {
     font-family: 'Gabarito', sans-serif;
     font-family: 'Poppins', sans-serif;
     margin: 0;
-    background-color: black;
 } 
 
 
@@ -246,7 +245,6 @@ select:hover{
 .cardContent {
     display: flex;
     align-items: center;
-    background-color: black;
     flex-direction: row; /* Imposta la direzione in fila (orizzontale) */
     align-items: center; /* Allinea gli elementi lungo l'asse verticale */
     justify-content: center;
@@ -274,6 +272,10 @@ come si comportavano i div */
 
 .imgCard img {
 
+
+}
+.cardSection {
+    background-color: orange;
 }
 
 

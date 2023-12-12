@@ -96,6 +96,7 @@ if ($err) {
 					$race = "Tipo della carta non disponibile";
 				}
 				echo "
+				<div class='cardSection'>
 				<div class='cardContent'>
 					<div class='imgCard'>
 						<img src='" . $cleaned_url . "' alt='Caricamento immagine non riuscita'>
@@ -106,6 +107,7 @@ if ($err) {
 						<p>Descrizione: {$text}</p>
 						<p>Flavor: {$flavor}</p>
 					</div>
+				</div>
 				</div>";
 
 			}

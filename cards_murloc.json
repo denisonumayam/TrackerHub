@@ -24,22 +24,6 @@
         "locale": "itIT"
     },
     {
-        "cardId": "BG24_004_G",
-        "dbfId": 92422,
-        "name": "Ala Distorcente",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 0,
-        "attack": 24,
-        "health": 8,
-        "text": "<b>Immune<\/b> quando attacca.",
-        "elite": true,
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/bd9bc48383a712495f86c7ff4283c0961183101a74cf26c2fd4fbc46366c3388.png",
-        "locale": "itIT"
-    },
-    {
         "cardId": "BG24_004",
         "dbfId": 92413,
         "name": "Ala Distorcente",
@@ -53,6 +37,22 @@
         "race": "Dragon",
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/624d418d1f16ff2958a1d53de0e42c3101bd147c942509eb5c4312d9a1ee332d.png",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "BG24_004_G",
+        "dbfId": 92422,
+        "name": "Ala Distorcente",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 0,
+        "attack": 24,
+        "health": 8,
+        "text": "<b>Immune<\/b> quando attacca.",
+        "elite": true,
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/bd9bc48383a712495f86c7ff4283c0961183101a74cf26c2fd4fbc46366c3388.png",
         "locale": "itIT"
     },
     {
@@ -610,34 +610,6 @@
         "locale": "itIT"
     },
     {
-        "cardId": "NX2_037t2",
-        "dbfId": 94607,
-        "name": "Ala di Sindragosa",
-        "cardSet": "March of the Lich King",
-        "type": "Minion",
-        "cost": 1,
-        "attack": 2,
-        "health": 1,
-        "text": "<b>Assalto<\/b>. <b>Congela<\/b> i\\npersonaggi a cui\\ninfligge danni.",
-        "artist": "James Ryman",
-        "elite": true,
-        "race": "Dragon",
-        "otherRaces": [
-            "Undead"
-        ],
-        "playerClass": "Death Knight",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/defa891642b9a627ff8d8b62ae43e952fb624cb6a0110f00e1d0a3d6a3d776af.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Congelamento"
-            },
-            {
-                "name": "Assalto"
-            }
-        ]
-    },
-    {
         "cardId": "NX2_037t",
         "dbfId": 87330,
         "name": "Ala di Sindragosa",
@@ -655,6 +627,34 @@
         ],
         "playerClass": "Death Knight",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/51805baec038151d8d671c36804cd50620d9b15bfb084c740fc6f451fcd856e7.png",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Congelamento"
+            },
+            {
+                "name": "Assalto"
+            }
+        ]
+    },
+    {
+        "cardId": "NX2_037t2",
+        "dbfId": 94607,
+        "name": "Ala di Sindragosa",
+        "cardSet": "March of the Lich King",
+        "type": "Minion",
+        "cost": 1,
+        "attack": 2,
+        "health": 1,
+        "text": "<b>Assalto<\/b>. <b>Congela<\/b> i\\npersonaggi a cui\\ninfligge danni.",
+        "artist": "James Ryman",
+        "elite": true,
+        "race": "Dragon",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Death Knight",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/defa891642b9a627ff8d8b62ae43e952fb624cb6a0110f00e1d0a3d6a3d776af.png",
         "locale": "itIT",
         "mechanics": [
             {
@@ -758,23 +758,6 @@
         "locale": "itIT"
     },
     {
-        "cardId": "BG26_529_G",
-        "dbfId": 101115,
-        "name": "Draco Vivace",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "faction": "Neutral",
-        "cost": 1,
-        "attack": 2,
-        "health": 2,
-        "text": "[x]Alla fine di ogni\\n3 turni, fornisce 2\\nDraghi casuali.\\n<i>(Ancora {0} |4(turno,turni)!)<\/i>@Alla fine di ogni 3 turni, fornisce 2 Draghi casuali. <i>(Alla fine di questo turno!)<\/i>",
-        "artist": "Ramzy Kamen",
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/ba21ebb4a989954b7e2c2b92994c5db8b52a51f70455e1e74289121aac56249f.png",
-        "locale": "itIT"
-    },
-    {
         "cardId": "BG26_529",
         "dbfId": 101114,
         "name": "Draco Vivace",
@@ -789,6 +772,23 @@
         "race": "Dragon",
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d15e09c519ce9df5382a1faa983e1653f74f1fe2722fe52da737a7ab489dfc56.png",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "BG26_529_G",
+        "dbfId": 101115,
+        "name": "Draco Vivace",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "faction": "Neutral",
+        "cost": 1,
+        "attack": 2,
+        "health": 2,
+        "text": "[x]Alla fine di ogni\\n3 turni, fornisce 2\\nDraghi casuali.\\n<i>(Ancora {0} |4(turno,turni)!)<\/i>@Alla fine di ogni 3 turni, fornisce 2 Draghi casuali. <i>(Alla fine di questo turno!)<\/i>",
+        "artist": "Ramzy Kamen",
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/ba21ebb4a989954b7e2c2b92994c5db8b52a51f70455e1e74289121aac56249f.png",
         "locale": "itIT"
     },
     {
@@ -814,6 +814,19 @@
         "cost": 1,
         "attack": 1,
         "health": 1,
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "BRMA09_2Ht",
+        "dbfId": 2527,
+        "name": "Draghetto",
+        "cardSet": "Blackrock Mountain",
+        "type": "Minion",
+        "cost": 1,
+        "attack": 2,
+        "health": 2,
         "race": "Dragon",
         "playerClass": "Neutral",
         "locale": "itIT"
@@ -848,19 +861,6 @@
         "locale": "itIT"
     },
     {
-        "cardId": "BRMA09_2Ht",
-        "dbfId": 2527,
-        "name": "Draghetto",
-        "cardSet": "Blackrock Mountain",
-        "type": "Minion",
-        "cost": 1,
-        "attack": 2,
-        "health": 2,
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "locale": "itIT"
-    },
-    {
         "cardId": "KAR_010a",
         "dbfId": 39692,
         "name": "Draghetto",
@@ -873,6 +873,21 @@
         "race": "Dragon",
         "playerClass": "Paladin",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/53e321761df0428f38ba80229ab2313b42d08edc0bcfee9f0075a6702df4398a.png",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "BG22_HERO_305t",
+        "dbfId": 82117,
+        "name": "Draghetto di Onyxia",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 1,
+        "attack": 3,
+        "health": 1,
+        "artist": "Mauricio Herrera",
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/bae3c30d4ce4258976bd689a2cc026b0b4e6910048eb48dee8906dfc657971db.png",
         "locale": "itIT"
     },
     {
@@ -907,21 +922,6 @@
         "artist": "Mauricio Herrera",
         "race": "Dragon",
         "playerClass": "Neutral",
-        "locale": "itIT"
-    },
-    {
-        "cardId": "BG22_HERO_305t",
-        "dbfId": 82117,
-        "name": "Draghetto di Onyxia",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 1,
-        "attack": 3,
-        "health": 1,
-        "artist": "Mauricio Herrera",
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/bae3c30d4ce4258976bd689a2cc026b0b4e6910048eb48dee8906dfc657971db.png",
         "locale": "itIT"
     },
     {
@@ -1026,22 +1026,6 @@
         ]
     },
     {
-        "cardId": "BGS_019",
-        "dbfId": 59968,
-        "name": "Draghetto Rosso",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 1,
-        "attack": 2,
-        "health": 2,
-        "text": "[x]<b>Inizio Combattimento:<\/b>\\ninfligge 1 danno per ogni\\ntuo Drago a un servitore\\nnemico casuale.",
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/135e98c0e2786ced58d783b7f50c78515c6b6044e43986d9e027c1047761c553.png",
-        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/19f5b0547b6e1fe01aae18a0141d5d6ee776ec88556403370fad8532cde07d3f.png",
-        "locale": "itIT"
-    },
-    {
         "cardId": "TB_BaconUps_102",
         "dbfId": 60642,
         "name": "Draghetto Rosso",
@@ -1055,6 +1039,22 @@
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/79c02b43162fd8af866a276459f22465430b337abddc419eb4f80b68bf3affb4.png",
         "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/fd6598c032f805844207e1f0cc4bdb5cf2a201be3c4a7fd5ea010a89ff81001d.png",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "BGS_019",
+        "dbfId": 59968,
+        "name": "Draghetto Rosso",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 1,
+        "attack": 2,
+        "health": 2,
+        "text": "[x]<b>Inizio Combattimento:<\/b>\\ninfligge 1 danno per ogni\\ntuo Drago a un servitore\\nnemico casuale.",
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/135e98c0e2786ced58d783b7f50c78515c6b6044e43986d9e027c1047761c553.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/19f5b0547b6e1fe01aae18a0141d5d6ee776ec88556403370fad8532cde07d3f.png",
         "locale": "itIT"
     },
     {
@@ -1198,6 +1198,25 @@
         "locale": "itIT"
     },
     {
+        "cardId": "VAN_NEW1_023",
+        "dbfId": 70087,
+        "name": "Drago Fatato",
+        "cardSet": "Vanilla",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 2,
+        "attack": 3,
+        "health": 2,
+        "text": "Non pu\u00f2 essere il bersaglio di Magie o Poteri Eroe.",
+        "flavor": "Adorabile. Immune alla magia. Non fa i bisogni sul tappeto. Il perfetto animale domestico.",
+        "artist": "Samwise",
+        "collectible": true,
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/ede2fb08c91ea8f443ab5c6abd29ba2ffab3afc58f3f5126b924e2c35eb88939.png",
+        "locale": "itIT"
+    },
+    {
         "cardId": "CORE_NEW1_023",
         "dbfId": 76329,
         "name": "Drago Fatato",
@@ -1216,25 +1235,6 @@
         "howToGet": "Sbloccata completando il tutorial.",
         "howToGetGold": "Sbloccata dopo aver vinto un totale di 500 partite.",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/50c71ac33543f284515789a4128104dc618a8dc19069c200e8b43cbe190fab5c.png",
-        "locale": "itIT"
-    },
-    {
-        "cardId": "VAN_NEW1_023",
-        "dbfId": 70087,
-        "name": "Drago Fatato",
-        "cardSet": "Vanilla",
-        "type": "Minion",
-        "rarity": "Common",
-        "cost": 2,
-        "attack": 3,
-        "health": 2,
-        "text": "Non pu\u00f2 essere il bersaglio di Magie o Poteri Eroe.",
-        "flavor": "Adorabile. Immune alla magia. Non fa i bisogni sul tappeto. Il perfetto animale domestico.",
-        "artist": "Samwise",
-        "collectible": true,
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/ede2fb08c91ea8f443ab5c6abd29ba2ffab3afc58f3f5126b924e2c35eb88939.png",
         "locale": "itIT"
     },
     {
@@ -1423,26 +1423,6 @@
         ]
     },
     {
-        "cardId": "BG28_593_G",
-        "dbfId": 105537,
-        "name": "Sputasabbia Bronzeo",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 2,
-        "attack": 4,
-        "health": 4,
-        "text": "[x]<b>Scudo Divino<\/b>. Se hai 7\\nservitori alla fine del tuo turno,\\nottiene +4\/+2.",
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/6280e4cbb388cfacf5d63a332260e90d45afed338df340986f205f277b0fa054.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Scudo Divino"
-            }
-        ]
-    },
-    {
         "cardId": "BG28_593",
         "dbfId": 105533,
         "name": "Sputasabbia Bronzeo",
@@ -1455,6 +1435,26 @@
         "race": "Dragon",
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/e0fc58a5a61abb7f90bc773889d9d5180d00c12307be1715e03ad8f3091d98ae.png",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Scudo Divino"
+            }
+        ]
+    },
+    {
+        "cardId": "BG28_593_G",
+        "dbfId": 105537,
+        "name": "Sputasabbia Bronzeo",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 2,
+        "attack": 4,
+        "health": 4,
+        "text": "[x]<b>Scudo Divino<\/b>. Se hai 7\\nservitori alla fine del tuo turno,\\nottiene +4\/+2.",
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/6280e4cbb388cfacf5d63a332260e90d45afed338df340986f205f277b0fa054.png",
         "locale": "itIT",
         "mechanics": [
             {
@@ -1519,6 +1519,32 @@
         "locale": "itIT"
     },
     {
+        "cardId": "CORE_EX1_189",
+        "dbfId": 69672,
+        "name": "Alachiara",
+        "cardSet": "Unknown",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 3,
+        "attack": 3,
+        "health": 2,
+        "text": "[x]<b>Grido di Battaglia:<\/b>\\nmette nella tua\\nmano un servitore\\n<b>Leggendario<\/b> casuale.",
+        "flavor": "I Draghi Fatati sono una combinazione di dolcezza, vivacit\u00e0 e dissolutezza.",
+        "artist": "Jerry Mascho",
+        "collectible": true,
+        "elite": true,
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "howToGet": "Sbloccata completando il tutorial.",
+        "howToGetGold": "Sbloccata dopo aver vinto un totale di 5.000 partite.",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Grido di Battaglia"
+            }
+        ]
+    },
+    {
         "cardId": "EX1_189",
         "dbfId": 54839,
         "name": "Alachiara",
@@ -1538,32 +1564,6 @@
         "howToGet": "Non disponibile nelle buste, deve essere creata.",
         "howToGetGold": "Non disponibile nelle buste, deve essere creata.",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/264243f7d0f48fafb13dd1464a7c0c1466a312db8f50fce94db377ccb2cac25c.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Grido di Battaglia"
-            }
-        ]
-    },
-    {
-        "cardId": "CORE_EX1_189",
-        "dbfId": 69672,
-        "name": "Alachiara",
-        "cardSet": "Unknown",
-        "type": "Minion",
-        "rarity": "Legendary",
-        "cost": 3,
-        "attack": 3,
-        "health": 2,
-        "text": "[x]<b>Grido di Battaglia:<\/b>\\nmette nella tua\\nmano un servitore\\n<b>Leggendario<\/b> casuale.",
-        "flavor": "I Draghi Fatati sono una combinazione di dolcezza, vivacit\u00e0 e dissolutezza.",
-        "artist": "Jerry Mascho",
-        "collectible": true,
-        "elite": true,
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "howToGet": "Sbloccata completando il tutorial.",
-        "howToGetGold": "Sbloccata dopo aver vinto un totale di 5.000 partite.",
         "locale": "itIT",
         "mechanics": [
             {
@@ -1939,26 +1939,6 @@
         ]
     },
     {
-        "cardId": "BG24_500",
-        "dbfId": 95006,
-        "name": "Guardiano d'Ambra",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 3,
-        "attack": 3,
-        "health": 2,
-        "text": "<b>Inizio Combattimento:<\/b> +2\/+2 e <b>Scudo Divino<\/b> a un altro tuo Drago.",
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/399b9b6bde7e76685620a13395e1e70d30c5d55d22bd53654efaea27355ab22e.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Scudo Divino"
-            }
-        ]
-    },
-    {
         "cardId": "BG24_500_G",
         "dbfId": 95010,
         "name": "Guardiano d'Ambra",
@@ -1972,6 +1952,26 @@
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/3bbbd9ddf6ebd7d7ff9099218afd086c21134fa0ef715ed02e1ed5cc8fb9921d.png",
         "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/7f0115fe27e94c85ca1fe2b3fe65cb1684b3de5af03b98e57d80490a6ef88657.png",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Scudo Divino"
+            }
+        ]
+    },
+    {
+        "cardId": "BG24_500",
+        "dbfId": 95006,
+        "name": "Guardiano d'Ambra",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 3,
+        "attack": 3,
+        "health": 2,
+        "text": "<b>Inizio Combattimento:<\/b> +2\/+2 e <b>Scudo Divino<\/b> a un altro tuo Drago.",
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/399b9b6bde7e76685620a13395e1e70d30c5d55d22bd53654efaea27355ab22e.png",
         "locale": "itIT",
         "mechanics": [
             {
@@ -2070,6 +2070,22 @@
         ]
     },
     {
+        "cardId": "BG21_015",
+        "dbfId": 72062,
+        "name": "Tarecgosa",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 3,
+        "attack": 4,
+        "health": 4,
+        "text": "Mantiene permanentemente i tuoi incantamenti del combattimento.",
+        "elite": true,
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/5d73ac20a6a2357d09cef3559d751bf65149eefd982eb21f90af35d10f266f54.png",
+        "locale": "itIT"
+    },
+    {
         "cardId": "BG21_015_G",
         "dbfId": 73453,
         "name": "Tarecgosa",
@@ -2084,22 +2100,6 @@
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/bfc950efa68a50686eae2593fee2131cfd3352c138c768ad689111c924cec569.png",
         "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a928f9625fdfe43f1ca6c6194c59563acc5819b63cf4c59fbf6862843d294713.png",
-        "locale": "itIT"
-    },
-    {
-        "cardId": "BG21_015",
-        "dbfId": 72062,
-        "name": "Tarecgosa",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 3,
-        "attack": 4,
-        "health": 4,
-        "text": "Mantiene permanentemente i tuoi incantamenti del combattimento.",
-        "elite": true,
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/5d73ac20a6a2357d09cef3559d751bf65149eefd982eb21f90af35d10f266f54.png",
         "locale": "itIT"
     },
     {
@@ -2128,6 +2128,34 @@
         ]
     },
     {
+        "cardId": "CFM_605",
+        "dbfId": 40378,
+        "name": "Agente Draconide",
+        "cardSet": "Mean Streets of Gadgetzan",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 4,
+        "attack": 4,
+        "health": 5,
+        "text": "[x]<b>Grido di Battaglia:<\/b> <b>Rinvieni<\/b>\\nuna copia di una carta del\\nmazzo dell'avversario se\\nhai un Drago in mano.",
+        "flavor": "Il suo scopo \u00e8 spiare gli Sgherri Torvi e il Loto di Giada, ma \u00e8 CHIARAMENTE un drago, per cui non sar\u00e0 un compito facile.",
+        "artist": "Zoltan Boros",
+        "collectible": true,
+        "race": "Dragon",
+        "playerClass": "Priest",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/56dbb65fefa8f0ea9357134d344ef247fca056da150a4a7e0f3d5ed5d858269a.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/3f28b823f48c329e8be961befd91a23c021a822e781c239109fe9559efad2aad.png",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Rinvenimento"
+            },
+            {
+                "name": "Grido di Battaglia"
+            }
+        ]
+    },
+    {
         "cardId": "CORE_CFM_605",
         "dbfId": 86535,
         "name": "Agente Draconide",
@@ -2146,34 +2174,6 @@
         "howToGet": "Sbloccata con la classe Sacerdote.",
         "howToGetGold": "Sbloccata dopo aver vinto 100 partite con il Sacerdote.",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/0e181ff3ef2c42783777cf3d697d6bc877ee74ffd7d479014ac113e35bd614e9.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Rinvenimento"
-            },
-            {
-                "name": "Grido di Battaglia"
-            }
-        ]
-    },
-    {
-        "cardId": "CFM_605",
-        "dbfId": 40378,
-        "name": "Agente Draconide",
-        "cardSet": "Mean Streets of Gadgetzan",
-        "type": "Minion",
-        "rarity": "Rare",
-        "cost": 4,
-        "attack": 4,
-        "health": 5,
-        "text": "[x]<b>Grido di Battaglia:<\/b> <b>Rinvieni<\/b>\\nuna copia di una carta del\\nmazzo dell'avversario se\\nhai un Drago in mano.",
-        "flavor": "Il suo scopo \u00e8 spiare gli Sgherri Torvi e il Loto di Giada, ma \u00e8 CHIARAMENTE un drago, per cui non sar\u00e0 un compito facile.",
-        "artist": "Zoltan Boros",
-        "collectible": true,
-        "race": "Dragon",
-        "playerClass": "Priest",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/56dbb65fefa8f0ea9357134d344ef247fca056da150a4a7e0f3d5ed5d858269a.png",
-        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/3f28b823f48c329e8be961befd91a23c021a822e781c239109fe9559efad2aad.png",
         "locale": "itIT",
         "mechanics": [
             {
@@ -2238,23 +2238,6 @@
         "locale": "itIT"
     },
     {
-        "cardId": "BGS_036",
-        "dbfId": 60561,
-        "name": "Alafurion",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 4,
-        "attack": 2,
-        "health": 4,
-        "text": "[x]Alla fine del tuo turno,\\nottiene +1\/+1 per ogni\\naltro_tuo_Drago.",
-        "elite": true,
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/74b5b816232ef50adbce2b15ac4b302b3c460bba245721db625e109ad4df062c.png",
-        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/04899eec8c3f5e6199841b712650c668e1c141250a1d3bea832f4d7dacc700b8.png",
-        "locale": "itIT"
-    },
-    {
         "cardId": "TB_BaconUps_106",
         "dbfId": 60649,
         "name": "Alafurion",
@@ -2269,6 +2252,23 @@
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/74645129a274fb1739c64de9c599568b2f77e52a0df580ac58dd267f960ca188.png",
         "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/63f014dbe4ac84486dcd9f1bbd95b0b8a6cacbeeb9c42b6a100d8231e87c2cf7.png",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "BGS_036",
+        "dbfId": 60561,
+        "name": "Alafurion",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 2,
+        "health": 4,
+        "text": "[x]Alla fine del tuo turno,\\nottiene +1\/+1 per ogni\\naltro_tuo_Drago.",
+        "elite": true,
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/74b5b816232ef50adbce2b15ac4b302b3c460bba245721db625e109ad4df062c.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/04899eec8c3f5e6199841b712650c668e1c141250a1d3bea832f4d7dacc700b8.png",
         "locale": "itIT"
     },
     {
@@ -2338,22 +2338,6 @@
         ]
     },
     {
-        "cardId": "BG26_966_G",
-        "dbfId": 100536,
-        "name": "Araldo della Tempesta",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 4,
-        "attack": 2,
-        "health": 18,
-        "text": "[x]Dopo che un tuo Drago\\ndiverso ha ottenuto\\nAttacco, lo ottiene anche\\nquesto due volte.",
-        "artist": "James Ryman",
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/b73d80fbf3ea8700d35d13fa9718c9058d5ee5fc7951e8075f09c4018c186105.png",
-        "locale": "itIT"
-    },
-    {
         "cardId": "BG26_966",
         "dbfId": 100535,
         "name": "Araldo della Tempesta",
@@ -2367,6 +2351,22 @@
         "race": "Dragon",
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a82b35850c14d2614d106575434ad826583c793a80604517ea532712ced039c1.png",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "BG26_966_G",
+        "dbfId": 100536,
+        "name": "Araldo della Tempesta",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 2,
+        "health": 18,
+        "text": "[x]Dopo che un tuo Drago\\ndiverso ha ottenuto\\nAttacco, lo ottiene anche\\nquesto due volte.",
+        "artist": "James Ryman",
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/b73d80fbf3ea8700d35d13fa9718c9058d5ee5fc7951e8075f09c4018c186105.png",
         "locale": "itIT"
     },
     {
@@ -2649,22 +2649,6 @@
         "locale": "itIT"
     },
     {
-        "cardId": "BGS_037",
-        "dbfId": 60621,
-        "name": "Custode del Tempo",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 4,
-        "attack": 3,
-        "health": 3,
-        "text": "[x]Quando vendi questo\\nservitore, +2\/+1 ai servitori\\nnella Locanda.",
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/b82f81c2a0c46ed3c05d65986b90eceddf54fb21596d2cb89f8be92ebb6ee313.png",
-        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a4333dc096e2409add72fbf89b506f99cc4e00595a068f5fa2a8ca788d0f1ab3.png",
-        "locale": "itIT"
-    },
-    {
         "cardId": "TB_BaconUps_107",
         "dbfId": 60663,
         "name": "Custode del Tempo",
@@ -2678,6 +2662,22 @@
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/c7e0fd960463eb36c202e35034bec98d6f0f57df14c4623b671d249a916205ac.png",
         "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/0aed226cefc7e82c7a3de78b75947f995a55ce0c91645438386c641b7260f769.png",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "BGS_037",
+        "dbfId": 60621,
+        "name": "Custode del Tempo",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 3,
+        "health": 3,
+        "text": "[x]Quando vendi questo\\nservitore, +2\/+1 ai servitori\\nnella Locanda.",
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/b82f81c2a0c46ed3c05d65986b90eceddf54fb21596d2cb89f8be92ebb6ee313.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a4333dc096e2409add72fbf89b506f99cc4e00595a068f5fa2a8ca788d0f1ab3.png",
         "locale": "itIT"
     },
     {
@@ -2761,6 +2761,19 @@
         ]
     },
     {
+        "cardId": "BRMA10_5",
+        "dbfId": 2607,
+        "name": "Draco Cromatico",
+        "cardSet": "Blackrock Mountain",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 7,
+        "health": 3,
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "locale": "itIT"
+    },
+    {
         "cardId": "BRMA10_5H",
         "dbfId": 2608,
         "name": "Draco Cromatico",
@@ -2774,17 +2787,29 @@
         "locale": "itIT"
     },
     {
-        "cardId": "BRMA10_5",
-        "dbfId": 2607,
-        "name": "Draco Cromatico",
-        "cardSet": "Blackrock Mountain",
+        "cardId": "EX1_043",
+        "dbfId": 1037,
+        "name": "Draco del Crepuscolo",
+        "cardSet": "Classic",
         "type": "Minion",
+        "faction": "Neutral",
+        "rarity": "Rare",
         "cost": 4,
-        "attack": 7,
-        "health": 3,
+        "attack": 4,
+        "health": 1,
+        "text": "<b>Grido di Battaglia:<\/b> ottiene +1 Salute per ogni altra carta nella tua mano.",
+        "flavor": "I Drachi del Crepuscolo si nutrono di energia mistica... e mozzarella.",
+        "artist": "Jaemin Kim",
+        "collectible": true,
         "race": "Dragon",
         "playerClass": "Neutral",
-        "locale": "itIT"
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d985c1ba35140773b8452f913f0dc64b570c1cd349b58fcd7aa682d34082aef1.png",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Grido di Battaglia"
+            }
+        ]
     },
     {
         "cardId": "CORE_EX1_043",
@@ -2806,31 +2831,6 @@
         "howToGet": "Sbloccata completando il tutorial.",
         "howToGetGold": "Sbloccata dopo aver vinto un totale di 1.000 partite.",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/09666a1525f4e0dc320ed75851d77b2212fa6aa935c5b16107e67128ab10db5d.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Grido di Battaglia"
-            }
-        ]
-    },
-    {
-        "cardId": "EX1_043",
-        "dbfId": 1037,
-        "name": "Draco del Crepuscolo",
-        "cardSet": "Classic",
-        "type": "Minion",
-        "faction": "Neutral",
-        "rarity": "Rare",
-        "cost": 4,
-        "attack": 4,
-        "health": 1,
-        "text": "<b>Grido di Battaglia:<\/b> ottiene +1 Salute per ogni altra carta nella tua mano.",
-        "flavor": "I Drachi del Crepuscolo si nutrono di energia mistica... e mozzarella.",
-        "artist": "Jaemin Kim",
-        "collectible": true,
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d985c1ba35140773b8452f913f0dc64b570c1cd349b58fcd7aa682d34082aef1.png",
         "locale": "itIT",
         "mechanics": [
             {
@@ -2909,18 +2909,31 @@
         ]
     },
     {
-        "cardId": "LETLT_125_01",
-        "dbfId": 86436,
+        "cardId": "ONY_024",
+        "dbfId": 71250,
         "name": "Draco di Onyxia",
-        "cardSet": "Mercenaries",
+        "cardSet": "Fractured in Alterac Valley",
         "type": "Minion",
-        "faction": "Neutral",
         "rarity": "Common",
         "cost": 4,
-        "attack": 5,
-        "health": 20,
+        "attack": 4,
+        "health": 5,
+        "text": "<b>Provocazione<\/b>. <b>Grido di Battaglia:<\/b> infligge danni pari alla tua Armatura a un servitore nemico.",
+        "flavor": "Il miglior attacco \u00e8 una difesa impenetrabile.",
+        "artist": "Mauricio Herrera",
+        "collectible": true,
         "race": "Dragon",
-        "locale": "itIT"
+        "playerClass": "Warrior",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/e9d84e74361f141493a37707f49572805a908e3f3c51f1fedcbeee884234db66.png",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Grido di Battaglia"
+            },
+            {
+                "name": "Provocazione"
+            }
+        ]
     },
     {
         "cardId": "CORE_ONY_024",
@@ -2949,44 +2962,17 @@
         ]
     },
     {
-        "cardId": "ONY_024",
-        "dbfId": 71250,
+        "cardId": "LETLT_125_01",
+        "dbfId": 86436,
         "name": "Draco di Onyxia",
-        "cardSet": "Fractured in Alterac Valley",
+        "cardSet": "Mercenaries",
         "type": "Minion",
+        "faction": "Neutral",
         "rarity": "Common",
         "cost": 4,
-        "attack": 4,
-        "health": 5,
-        "text": "<b>Provocazione<\/b>. <b>Grido di Battaglia:<\/b> infligge danni pari alla tua Armatura a un servitore nemico.",
-        "flavor": "Il miglior attacco \u00e8 una difesa impenetrabile.",
-        "artist": "Mauricio Herrera",
-        "collectible": true,
+        "attack": 5,
+        "health": 20,
         "race": "Dragon",
-        "playerClass": "Warrior",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/e9d84e74361f141493a37707f49572805a908e3f3c51f1fedcbeee884234db66.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Grido di Battaglia"
-            },
-            {
-                "name": "Provocazione"
-            }
-        ]
-    },
-    {
-        "cardId": "DREAM_03",
-        "dbfId": 489,
-        "name": "Draco di Smeraldo",
-        "cardSet": "Classic",
-        "type": "Minion",
-        "cost": 4,
-        "attack": 7,
-        "health": 6,
-        "race": "Dragon",
-        "playerClass": "Dream",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/af0b46fbe5921a184a9e82b9d6e1816a0d405f8cf21adbe664970463d6010862.png",
         "locale": "itIT"
     },
     {
@@ -3004,17 +2990,17 @@
         "locale": "itIT"
     },
     {
-        "cardId": "LETLT_126_01",
-        "dbfId": 86462,
-        "name": "Draco Fatuo della Luce",
-        "cardSet": "Mercenaries",
+        "cardId": "DREAM_03",
+        "dbfId": 489,
+        "name": "Draco di Smeraldo",
+        "cardSet": "Classic",
         "type": "Minion",
-        "faction": "Neutral",
-        "rarity": "Common",
         "cost": 4,
-        "attack": 5,
-        "health": 20,
+        "attack": 7,
+        "health": 6,
         "race": "Dragon",
+        "playerClass": "Dream",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/af0b46fbe5921a184a9e82b9d6e1816a0d405f8cf21adbe664970463d6010862.png",
         "locale": "itIT"
     },
     {
@@ -3040,6 +3026,20 @@
                 "name": "Grido di Battaglia"
             }
         ]
+    },
+    {
+        "cardId": "LETLT_126_01",
+        "dbfId": 86462,
+        "name": "Draco Fatuo della Luce",
+        "cardSet": "Mercenaries",
+        "type": "Minion",
+        "faction": "Neutral",
+        "rarity": "Common",
+        "cost": 4,
+        "attack": 5,
+        "health": 20,
+        "race": "Dragon",
+        "locale": "itIT"
     },
     {
         "cardId": "LETLT_076_01",
@@ -3337,6 +3337,20 @@
         ]
     },
     {
+        "cardId": "LETLT_074_01",
+        "dbfId": 78211,
+        "name": "Dragoide Occultista",
+        "cardSet": "Mercenaries",
+        "type": "Minion",
+        "faction": "Neutral",
+        "rarity": "Common",
+        "cost": 4,
+        "attack": 6,
+        "health": 30,
+        "race": "Dragon",
+        "locale": "itIT"
+    },
+    {
         "cardId": "BRM_020",
         "dbfId": 2306,
         "name": "Dragoide Occultista",
@@ -3355,20 +3369,6 @@
         "howToGet": "Sbloccata nel Laboratorio Segreto (Massiccio Roccianera).",
         "howToGetGold": "Pu\u00f2 essere creata dopo aver completato il Laboratorio Segreto (Massiccio Roccianera).",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/1ae4285006c3516bb751f63c41e6bc58da04614cc45d10c4470d520e0284d539.png",
-        "locale": "itIT"
-    },
-    {
-        "cardId": "LETLT_074_01",
-        "dbfId": 78211,
-        "name": "Dragoide Occultista",
-        "cardSet": "Mercenaries",
-        "type": "Minion",
-        "faction": "Neutral",
-        "rarity": "Common",
-        "cost": 4,
-        "attack": 6,
-        "health": 30,
-        "race": "Dragon",
         "locale": "itIT"
     },
     {
@@ -3529,30 +3529,6 @@
         ]
     },
     {
-        "cardId": "BGS_034",
-        "dbfId": 60558,
-        "name": "Guardiano di Bronzo",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 4,
-        "attack": 2,
-        "health": 1,
-        "text": "[x]<b>Scudo Divino<\/b>.\\n<b>Rinascita<\/b>.",
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/6f658384dabd436f68181289eb52530c8e1527d612dc2e8125ca4e0a13f4e8ef.png",
-        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/964662da6facb66b5bc8ed7514911c918960a4118150425623849af8b713b404.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Scudo Divino"
-            },
-            {
-                "name": "Rinascita"
-            }
-        ]
-    },
-    {
         "cardId": "TB_BaconUps_149",
         "dbfId": 63779,
         "name": "Guardiano di Bronzo",
@@ -3566,6 +3542,30 @@
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/20a2a476cd898c80968bf6c906266cf282805bdd0b3b891c8f7ae7906fee2d67.png",
         "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/0d2a55bca6d6cd3be8e7eef4ee70d5ec5ad355767aeddf707dca9d0ecc1d7f11.png",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Scudo Divino"
+            },
+            {
+                "name": "Rinascita"
+            }
+        ]
+    },
+    {
+        "cardId": "BGS_034",
+        "dbfId": 60558,
+        "name": "Guardiano di Bronzo",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 2,
+        "health": 1,
+        "text": "[x]<b>Scudo Divino<\/b>.\\n<b>Rinascita<\/b>.",
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/6f658384dabd436f68181289eb52530c8e1527d612dc2e8125ca4e0a13f4e8ef.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/964662da6facb66b5bc8ed7514911c918960a4118150425623849af8b713b404.png",
         "locale": "itIT",
         "mechanics": [
             {
@@ -3779,6 +3779,21 @@
         "locale": "itIT"
     },
     {
+        "cardId": "BG21_012",
+        "dbfId": 72063,
+        "name": "Piroprole di Katrana",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 3,
+        "health": 5,
+        "text": "Quando un altro tuo Drago attacca, infligge 3 danni al suo bersaglio.",
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a25a24fd57d9e8190860026d43c67e17c74b2707da48f6ef6e788e7f34bb1fa2.png",
+        "locale": "itIT"
+    },
+    {
         "cardId": "BG21_012_G",
         "dbfId": 73450,
         "name": "Piroprole di Katrana",
@@ -3795,18 +3810,18 @@
         "locale": "itIT"
     },
     {
-        "cardId": "BG21_012",
-        "dbfId": 72063,
-        "name": "Piroprole di Katrana",
+        "cardId": "BG21_014",
+        "dbfId": 72073,
+        "name": "Promo-Draco Pregiato",
         "cardSet": "Battlegrounds",
         "type": "Minion",
         "cost": 4,
         "attack": 3,
-        "health": 5,
-        "text": "Quando un altro tuo Drago attacca, infligge 3 danni al suo bersaglio.",
+        "health": 3,
+        "text": "<b>Inizio Combattimento:<\/b> +1\/+1 ai servitori adiacenti per ogni tuo Drago.",
         "race": "Dragon",
         "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a25a24fd57d9e8190860026d43c67e17c74b2707da48f6ef6e788e7f34bb1fa2.png",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/af926c5ca8b23d3e66b363117ed32312ef180e5e0e39f4d742687a075895fbf2.png",
         "locale": "itIT"
     },
     {
@@ -3823,21 +3838,6 @@
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/7ee184da0384b2241abbacd91f1355c23c3900d44a70339ff189b81fd41dbece.png",
         "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/4367898b375e9381ec78445f6244ddfa6cf4333f8e44d28d467c49c7270df011.png",
-        "locale": "itIT"
-    },
-    {
-        "cardId": "BG21_014",
-        "dbfId": 72073,
-        "name": "Promo-Draco Pregiato",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 4,
-        "attack": 3,
-        "health": 3,
-        "text": "<b>Inizio Combattimento:<\/b> +1\/+1 ai servitori adiacenti per ogni tuo Drago.",
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/af926c5ca8b23d3e66b363117ed32312ef180e5e0e39f4d742687a075895fbf2.png",
         "locale": "itIT"
     },
     {
@@ -3913,6 +3913,28 @@
         "locale": "itIT"
     },
     {
+        "cardId": "BG26_963",
+        "dbfId": 100026,
+        "name": "Sintetizzatore Elettrico",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "faction": "Neutral",
+        "cost": 4,
+        "attack": 3,
+        "health": 4,
+        "text": "<b>Grido di Battaglia:<\/b> +2\/+1 agli altri tuoi Draghi.",
+        "artist": "Zoltan Boros",
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/cbd97592d8d6ba403553fddcaf94cf2d881b05cfb2a7ff799a53132e21f3442f.png",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Grido di Battaglia"
+            }
+        ]
+    },
+    {
         "cardId": "BG26_963_G",
         "dbfId": 100029,
         "name": "Sintetizzatore Elettrico",
@@ -3935,20 +3957,20 @@
         ]
     },
     {
-        "cardId": "BG26_963",
-        "dbfId": 100026,
-        "name": "Sintetizzatore Elettrico",
-        "cardSet": "Battlegrounds",
+        "cardId": "Story_09_Duskbreaker",
+        "dbfId": 75944,
+        "name": "Spazzatenebre",
+        "cardSet": "Kobolds & Catacombs",
         "type": "Minion",
-        "faction": "Neutral",
+        "rarity": "Rare",
         "cost": 4,
         "attack": 3,
-        "health": 4,
-        "text": "<b>Grido di Battaglia:<\/b> +2\/+1 agli altri tuoi Draghi.",
-        "artist": "Zoltan Boros",
+        "health": 3,
+        "text": "[x]<b>Grido di Battaglia:<\/b>\\ninfligge 3 danni a TUTTI\\ngli altri servitori se hai\\nun Drago in mano.",
+        "flavor": "Svegliarsi al tramonto non fa pi\u00f9 colpo su nessuno.",
+        "artist": "Alex Horley Orlandelli",
         "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/cbd97592d8d6ba403553fddcaf94cf2d881b05cfb2a7ff799a53132e21f3442f.png",
+        "playerClass": "Priest",
         "locale": "itIT",
         "mechanics": [
             {
@@ -3973,28 +3995,6 @@
         "race": "Dragon",
         "playerClass": "Priest",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/b09515573c97ee1a98403513baf101a27b2176b84fd51c0e2e08792243d488b9.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Grido di Battaglia"
-            }
-        ]
-    },
-    {
-        "cardId": "Story_09_Duskbreaker",
-        "dbfId": 75944,
-        "name": "Spazzatenebre",
-        "cardSet": "Kobolds & Catacombs",
-        "type": "Minion",
-        "rarity": "Rare",
-        "cost": 4,
-        "attack": 3,
-        "health": 3,
-        "text": "[x]<b>Grido di Battaglia:<\/b>\\ninfligge 3 danni a TUTTI\\ngli altri servitori se hai\\nun Drago in mano.",
-        "flavor": "Svegliarsi al tramonto non fa pi\u00f9 colpo su nessuno.",
-        "artist": "Alex Horley Orlandelli",
-        "race": "Dragon",
-        "playerClass": "Priest",
         "locale": "itIT",
         "mechanics": [
             {
@@ -4057,26 +4057,6 @@
         ]
     },
     {
-        "cardId": "TB_BaconShop_HERO_56_Buddy",
-        "dbfId": 77448,
-        "name": "Vaelastrasz",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 4,
-        "attack": 5,
-        "health": 3,
-        "text": "<b>Grido di Battaglia:<\/b> ottieni un Drago casuale del tuo Livello.",
-        "elite": true,
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Grido di Battaglia"
-            }
-        ]
-    },
-    {
         "cardId": "TB_BaconShop_HERO_56_Buddy_G",
         "dbfId": 77533,
         "name": "Vaelastrasz",
@@ -4097,19 +4077,24 @@
         ]
     },
     {
-        "cardId": "TB_BaconShop_HERO_53_Buddy_G",
-        "dbfId": 77856,
-        "name": "Valithria Vagasogni",
+        "cardId": "TB_BaconShop_HERO_56_Buddy",
+        "dbfId": 77448,
+        "name": "Vaelastrasz",
         "cardSet": "Battlegrounds",
         "type": "Minion",
         "cost": 4,
-        "attack": 12,
-        "health": 8,
-        "text": "I Draghi nella Locanda hanno +6\/+6.",
+        "attack": 5,
+        "health": 3,
+        "text": "<b>Grido di Battaglia:<\/b> ottieni un Drago casuale del tuo Livello.",
         "elite": true,
         "race": "Dragon",
         "playerClass": "Neutral",
-        "locale": "itIT"
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Grido di Battaglia"
+            }
+        ]
     },
     {
         "cardId": "TB_BaconShop_HERO_53_Buddy",
@@ -4121,6 +4106,21 @@
         "attack": 6,
         "health": 4,
         "text": "I Draghi nella Locanda hanno +3\/+3.",
+        "elite": true,
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "TB_BaconShop_HERO_53_Buddy_G",
+        "dbfId": 77856,
+        "name": "Valithria Vagasogni",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 4,
+        "attack": 12,
+        "health": 8,
+        "text": "I Draghi nella Locanda hanno +6\/+6.",
         "elite": true,
         "race": "Dragon",
         "playerClass": "Neutral",
@@ -4469,32 +4469,6 @@
         ]
     },
     {
-        "cardId": "BG25_043",
-        "dbfId": 97557,
-        "name": "Draco Cibernetico",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 5,
-        "attack": 3,
-        "health": 10,
-        "text": "<b>Scudo Divino<\/b>. I tuoi servitori con <b>Scudo Divino<\/b> hanno +6_Attacco.",
-        "race": "Dragon",
-        "otherRaces": [
-            "Mech"
-        ],
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a073a87ef7bb6d7cae54786234b6edac71171af72368e7ec634349601dba97eb.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Scudo Divino"
-            },
-            {
-                "name": "Aura"
-            }
-        ]
-    },
-    {
         "cardId": "BG25_043_G",
         "dbfId": 97558,
         "name": "Draco Cibernetico",
@@ -4522,30 +4496,30 @@
         ]
     },
     {
-        "cardId": "LETL_847H2",
-        "dbfId": 81881,
-        "name": "Draco Cromatico",
-        "cardSet": "Mercenaries",
+        "cardId": "BG25_043",
+        "dbfId": 97557,
+        "name": "Draco Cibernetico",
+        "cardSet": "Battlegrounds",
         "type": "Minion",
-        "rarity": "Rare",
         "cost": 5,
-        "attack": 35,
-        "health": 55,
+        "attack": 3,
+        "health": 10,
+        "text": "<b>Scudo Divino<\/b>. I tuoi servitori con <b>Scudo Divino<\/b> hanno +6_Attacco.",
         "race": "Dragon",
-        "locale": "itIT"
-    },
-    {
-        "cardId": "LT25_148_T1_01m",
-        "dbfId": 97944,
-        "name": "Draco Cromatico",
-        "cardSet": "Mercenaries",
-        "type": "Minion",
-        "rarity": "Rare",
-        "cost": 5,
-        "attack": 35,
-        "health": 55,
-        "race": "Dragon",
-        "locale": "itIT"
+        "otherRaces": [
+            "Mech"
+        ],
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/a073a87ef7bb6d7cae54786234b6edac71171af72368e7ec634349601dba97eb.png",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Scudo Divino"
+            },
+            {
+                "name": "Aura"
+            }
+        ]
     },
     {
         "cardId": "LETL_847H4",
@@ -4563,6 +4537,32 @@
     {
         "cardId": "LETL_847H3",
         "dbfId": 81879,
+        "name": "Draco Cromatico",
+        "cardSet": "Mercenaries",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 5,
+        "attack": 35,
+        "health": 55,
+        "race": "Dragon",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "LETL_847H2",
+        "dbfId": 81881,
+        "name": "Draco Cromatico",
+        "cardSet": "Mercenaries",
+        "type": "Minion",
+        "rarity": "Rare",
+        "cost": 5,
+        "attack": 35,
+        "health": 55,
+        "race": "Dragon",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "LT25_148_T1_01m",
+        "dbfId": 97944,
         "name": "Draco Cromatico",
         "cardSet": "Mercenaries",
         "type": "Minion",
@@ -4733,6 +4733,34 @@
         ]
     },
     {
+        "cardId": "EX1_284",
+        "dbfId": 825,
+        "name": "Draco di Zaffiro",
+        "cardSet": "Hall of Fame",
+        "type": "Minion",
+        "faction": "Neutral",
+        "rarity": "Rare",
+        "cost": 5,
+        "attack": 4,
+        "health": 5,
+        "text": "<b>+1 Danni Magici<\/b>.\\n<b>Grido di Battaglia:<\/b>\\npesca una carta.",
+        "flavor": "Inizialmente dovevano essere Drachi di Berillo o di Cobalto, ma questi nomi erano troppo pretenziosi.",
+        "artist": "Ben Zhang",
+        "collectible": true,
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/12598358e8030e2c8670e660b57d6fd5a92f49df4fd3caf32de953dd9d94de23.png",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Danni Magici"
+            },
+            {
+                "name": "Grido di Battaglia"
+            }
+        ]
+    },
+    {
         "cardId": "CORE_EX1_284",
         "dbfId": 76324,
         "name": "Draco di Zaffiro",
@@ -4752,34 +4780,6 @@
         "howToGet": "Sbloccata completando il tutorial.",
         "howToGetGold": "Sbloccata dopo aver vinto un totale di 1.000 partite.",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/35ea7f692c2ccc8c59a09e6b3defa11a496c8d0064d16fd1555ef8a45c377ba7.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Danni Magici"
-            },
-            {
-                "name": "Grido di Battaglia"
-            }
-        ]
-    },
-    {
-        "cardId": "EX1_284",
-        "dbfId": 825,
-        "name": "Draco di Zaffiro",
-        "cardSet": "Hall of Fame",
-        "type": "Minion",
-        "faction": "Neutral",
-        "rarity": "Rare",
-        "cost": 5,
-        "attack": 4,
-        "health": 5,
-        "text": "<b>+1 Danni Magici<\/b>.\\n<b>Grido di Battaglia:<\/b>\\npesca una carta.",
-        "flavor": "Inizialmente dovevano essere Drachi di Berillo o di Cobalto, ma questi nomi erano troppo pretenziosi.",
-        "artist": "Ben Zhang",
-        "collectible": true,
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/12598358e8030e2c8670e660b57d6fd5a92f49df4fd3caf32de953dd9d94de23.png",
         "locale": "itIT",
         "mechanics": [
             {
@@ -4936,22 +4936,6 @@
         "locale": "itIT"
     },
     {
-        "cardId": "BGS_033",
-        "dbfId": 60552,
-        "name": "Drago Affuriato",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 5,
-        "attack": 4,
-        "health": 4,
-        "text": "[x]Se hai vinto il combattimento\\nprecedente, ottiene +2\/+2\\nall'inizio del tuo turno.",
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/36116c3e3723d731dc353bc6e8c6a64e5b110bb3cbeb4e532f3b79b52ed5f849.png",
-        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/e54f537db8a4a97232def8f19c5d1ba5dbb68a188e9dce7e037b5ba044293672.png",
-        "locale": "itIT"
-    },
-    {
         "cardId": "TB_BaconUps_104",
         "dbfId": 60645,
         "name": "Drago Affuriato",
@@ -4965,6 +4949,22 @@
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/26688b13825db95ce749eb6e6cd665180874d11904ae3775134a6d86425ae975.png",
         "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/6b1174ebbdf7aaf0445e312eff4ee9507e538750161f10744c27a076b4fc240f.png",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "BGS_033",
+        "dbfId": 60552,
+        "name": "Drago Affuriato",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 5,
+        "attack": 4,
+        "health": 4,
+        "text": "[x]Se hai vinto il combattimento\\nprecedente, ottiene +2\/+2\\nall'inizio del tuo turno.",
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/36116c3e3723d731dc353bc6e8c6a64e5b110bb3cbeb4e532f3b79b52ed5f849.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/e54f537db8a4a97232def8f19c5d1ba5dbb68a188e9dce7e037b5ba044293672.png",
         "locale": "itIT"
     },
     {
@@ -5096,21 +5096,6 @@
         ]
     },
     {
-        "cardId": "LETL_848H3",
-        "dbfId": 81386,
-        "name": "\u00c9lite Draconide",
-        "cardSet": "Mercenaries",
-        "type": "Minion",
-        "faction": "Neutral",
-        "rarity": "Epic",
-        "cost": 5,
-        "attack": 15,
-        "health": 100,
-        "text": "[x]<b>Passivo:<\/b> +3 Resistenza\\nal Fuoco.",
-        "race": "Dragon",
-        "locale": "itIT"
-    },
-    {
         "cardId": "LETL_848H3_Heroic",
         "dbfId": 82124,
         "name": "\u00c9lite Draconide",
@@ -5122,6 +5107,21 @@
         "attack": 25,
         "health": 250,
         "text": "[x]<b>Passivo:<\/b> +5 Resistenza\\nal Fuoco.",
+        "race": "Dragon",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "LETL_848H3",
+        "dbfId": 81386,
+        "name": "\u00c9lite Draconide",
+        "cardSet": "Mercenaries",
+        "type": "Minion",
+        "faction": "Neutral",
+        "rarity": "Epic",
+        "cost": 5,
+        "attack": 15,
+        "health": 100,
+        "text": "[x]<b>Passivo:<\/b> +3 Resistenza\\nal Fuoco.",
         "race": "Dragon",
         "locale": "itIT"
     },
@@ -5169,30 +5169,6 @@
         ]
     },
     {
-        "cardId": "DRG_226",
-        "dbfId": 55048,
-        "name": "Guardiano Ambrato",
-        "cardSet": "Descent of Dragons",
-        "type": "Minion",
-        "rarity": "Common",
-        "cost": 5,
-        "attack": 4,
-        "health": 6,
-        "text": "<b>Grido di Battaglia:<\/b> rigenera #8 Salute.",
-        "flavor": "Coltiva molti interessi, tra cui curare la gente.",
-        "artist": "Arthur Gimaldinov",
-        "collectible": true,
-        "race": "Dragon",
-        "playerClass": "Paladin",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/8c884c0b38cb32b6b52bb20ac15ed2bffccf9dc8faa82965b96e22b3565fbf81.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Grido di Battaglia"
-            }
-        ]
-    },
-    {
         "cardId": "CORE_DRG_226",
         "dbfId": 86544,
         "name": "Guardiano Ambrato",
@@ -5211,6 +5187,30 @@
         "howToGet": "Sbloccata con la classe Paladino.",
         "howToGetGold": "Sbloccata dopo aver vinto 50 partite con il Paladino.",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/e37959e77a4253c408a01d89335f4d389334abf7c7fbf0db4ea7405a0c9175d7.png",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Grido di Battaglia"
+            }
+        ]
+    },
+    {
+        "cardId": "DRG_226",
+        "dbfId": 55048,
+        "name": "Guardiano Ambrato",
+        "cardSet": "Descent of Dragons",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 5,
+        "attack": 4,
+        "health": 6,
+        "text": "<b>Grido di Battaglia:<\/b> rigenera #8 Salute.",
+        "flavor": "Coltiva molti interessi, tra cui curare la gente.",
+        "artist": "Arthur Gimaldinov",
+        "collectible": true,
+        "race": "Dragon",
+        "playerClass": "Paladin",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/8c884c0b38cb32b6b52bb20ac15ed2bffccf9dc8faa82965b96e22b3565fbf81.png",
         "locale": "itIT",
         "mechanics": [
             {
@@ -5243,21 +5243,6 @@
         ]
     },
     {
-        "cardId": "LETL_848H5",
-        "dbfId": 81472,
-        "name": "Invocatore Draconide",
-        "cardSet": "Mercenaries",
-        "type": "Minion",
-        "faction": "Neutral",
-        "rarity": "Epic",
-        "cost": 5,
-        "attack": 5,
-        "health": 100,
-        "text": "[x]<b>Passivo:<\/b> +3 Resistenza\\nal Fuoco.",
-        "race": "Dragon",
-        "locale": "itIT"
-    },
-    {
         "cardId": "LETL_848H5_Heroic",
         "dbfId": 82125,
         "name": "Invocatore Draconide",
@@ -5269,6 +5254,21 @@
         "attack": 10,
         "health": 200,
         "text": "[x]<b>Passivo:<\/b> +5 Resistenza\\nal Fuoco.",
+        "race": "Dragon",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "LETL_848H5",
+        "dbfId": 81472,
+        "name": "Invocatore Draconide",
+        "cardSet": "Mercenaries",
+        "type": "Minion",
+        "faction": "Neutral",
+        "rarity": "Epic",
+        "cost": 5,
+        "attack": 5,
+        "health": 100,
+        "text": "[x]<b>Passivo:<\/b> +3 Resistenza\\nal Fuoco.",
         "race": "Dragon",
         "locale": "itIT"
     },
@@ -5292,6 +5292,20 @@
         ]
     },
     {
+        "cardId": "LT22_007H_01",
+        "dbfId": 82393,
+        "name": "Long'xin",
+        "cardSet": "Mercenaries",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 5,
+        "attack": 7,
+        "health": 83,
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "locale": "itIT"
+    },
+    {
         "cardId": "LT22_007H_02",
         "dbfId": 83889,
         "name": "Long'xin",
@@ -5309,20 +5323,6 @@
     {
         "cardId": "LT22_007H_03",
         "dbfId": 83890,
-        "name": "Long'xin",
-        "cardSet": "Mercenaries",
-        "type": "Minion",
-        "rarity": "Legendary",
-        "cost": 5,
-        "attack": 7,
-        "health": 83,
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "locale": "itIT"
-    },
-    {
-        "cardId": "LT22_007H_01",
-        "dbfId": 82393,
         "name": "Long'xin",
         "cardSet": "Mercenaries",
         "type": "Minion",
@@ -5366,26 +5366,6 @@
         "locale": "itIT"
     },
     {
-        "cardId": "CORE_ICC_029",
-        "dbfId": 76330,
-        "name": "Malascaglia di Cobalto",
-        "cardSet": "Core",
-        "type": "Minion",
-        "rarity": "Common",
-        "cost": 5,
-        "attack": 5,
-        "health": 5,
-        "text": "[x]Alla fine del tuo turno,\\n+3 Attacco a un altro tuo\\nservitore casuale.",
-        "flavor": "Una spada a te! E una spada anche a te! Abbiamo spade per tutti!",
-        "artist": "Jim Nelson",
-        "collectible": true,
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "howToGet": "Sbloccata completando il tutorial.",
-        "howToGetGold": "Sbloccata dopo aver vinto un totale di 500 partite.",
-        "locale": "itIT"
-    },
-    {
         "cardId": "ICC_029",
         "dbfId": 42442,
         "name": "Malascaglia di Cobalto",
@@ -5403,6 +5383,26 @@
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/17e3a1f7bf56fe07684c7dfafe780dda79299b0a626f34c2d0749f0408189bf4.png",
         "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/bc272674ad4eb42fab49d1ca59c812bb5487a43f2d4bbfa55231a10694796ec7.png",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "CORE_ICC_029",
+        "dbfId": 76330,
+        "name": "Malascaglia di Cobalto",
+        "cardSet": "Core",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 5,
+        "attack": 5,
+        "health": 5,
+        "text": "[x]Alla fine del tuo turno,\\n+3 Attacco a un altro tuo\\nservitore casuale.",
+        "flavor": "Una spada a te! E una spada anche a te! Abbiamo spade per tutti!",
+        "artist": "Jim Nelson",
+        "collectible": true,
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "howToGet": "Sbloccata completando il tutorial.",
+        "howToGetGold": "Sbloccata dopo aver vinto un totale di 500 partite.",
         "locale": "itIT"
     },
     {
@@ -6316,30 +6316,6 @@
         "locale": "itIT"
     },
     {
-        "cardId": "BGS_038",
-        "dbfId": 60626,
-        "name": "Emissario del Crepuscolo",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 6,
-        "attack": 3,
-        "health": 3,
-        "text": "[x]<b>Provocazione<\/b>.\\n<b>Grido di Battaglia:<\/b>\\n+2\/+2 a un tuo Drago.",
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/73aa181ab0f82f2b1111cf631600a9d5eb1c498bd08e05fab736116094652e76.png",
-        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/b448fe8987a28419ca76e536b81169052d276879ecda3b2a5411098a86de493c.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Grido di Battaglia"
-            },
-            {
-                "name": "Provocazione"
-            }
-        ]
-    },
-    {
         "cardId": "TB_BaconUps_108",
         "dbfId": 60665,
         "name": "Emissario del Crepuscolo",
@@ -6364,25 +6340,21 @@
         ]
     },
     {
-        "cardId": "Story_08_EmeraldExplorer",
-        "dbfId": 73030,
-        "name": "Esploratrice di Smeraldo",
-        "cardSet": "Forged in the Barrens",
+        "cardId": "BGS_038",
+        "dbfId": 60626,
+        "name": "Emissario del Crepuscolo",
+        "cardSet": "Battlegrounds",
         "type": "Minion",
-        "rarity": "Common",
         "cost": 6,
-        "attack": 4,
-        "health": 8,
-        "text": "[x]<b>Provocazione<\/b>.\\n<b>Grido di Battaglia:<\/b>\\n<b>Rinvieni<\/b> un Drago.",
-        "flavor": "Tess continua a cercare il Sogno di Smeraldo, ma solo l'esploratrice sa dove si trova (e non glielo dir\u00e0 MAI!).",
-        "artist": "A.J. Nazzaro",
+        "attack": 3,
+        "health": 3,
+        "text": "[x]<b>Provocazione<\/b>.\\n<b>Grido di Battaglia:<\/b>\\n+2\/+2 a un tuo Drago.",
         "race": "Dragon",
-        "playerClass": "Druid",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/73aa181ab0f82f2b1111cf631600a9d5eb1c498bd08e05fab736116094652e76.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/b448fe8987a28419ca76e536b81169052d276879ecda3b2a5411098a86de493c.png",
         "locale": "itIT",
         "mechanics": [
-            {
-                "name": "Rinvenimento"
-            },
             {
                 "name": "Grido di Battaglia"
             },
@@ -6418,6 +6390,34 @@
             },
             {
                 "name": "Rinvenimento"
+            }
+        ]
+    },
+    {
+        "cardId": "Story_08_EmeraldExplorer",
+        "dbfId": 73030,
+        "name": "Esploratrice di Smeraldo",
+        "cardSet": "Forged in the Barrens",
+        "type": "Minion",
+        "rarity": "Common",
+        "cost": 6,
+        "attack": 4,
+        "health": 8,
+        "text": "[x]<b>Provocazione<\/b>.\\n<b>Grido di Battaglia:<\/b>\\n<b>Rinvieni<\/b> un Drago.",
+        "flavor": "Tess continua a cercare il Sogno di Smeraldo, ma solo l'esploratrice sa dove si trova (e non glielo dir\u00e0 MAI!).",
+        "artist": "A.J. Nazzaro",
+        "race": "Dragon",
+        "playerClass": "Druid",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Rinvenimento"
+            },
+            {
+                "name": "Grido di Battaglia"
+            },
+            {
+                "name": "Provocazione"
             }
         ]
     },
@@ -6822,11 +6822,10 @@
         ]
     },
     {
-        "cardId": "LETL_291_05m",
-        "dbfId": 76602,
+        "cardId": "LETL_291_05",
+        "dbfId": 76601,
         "name": "Dragone Sfuggente {0}",
         "cardSet": "Mercenaries",
-        "type": "Minion",
         "cost": 7,
         "attack": 20,
         "health": 10,
@@ -6841,10 +6840,11 @@
         ]
     },
     {
-        "cardId": "LETL_291_05",
-        "dbfId": 76601,
+        "cardId": "LETL_291_05m",
+        "dbfId": 76602,
         "name": "Dragone Sfuggente {0}",
         "cardSet": "Mercenaries",
+        "type": "Minion",
         "cost": 7,
         "attack": 20,
         "health": 10,
@@ -7170,22 +7170,6 @@
         "locale": "itIT"
     },
     {
-        "cardId": "BG27_017_G",
-        "dbfId": 103701,
-        "name": "Razziatore d'Ossidiana",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 7,
-        "attack": 14,
-        "health": 14,
-        "text": "Quando attacca, infligge\\ndanni pari al suo Attacco al bersaglio e ai servitori\\nadiacenti.",
-        "artist": "Alex Horley Orlandelli",
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/3cc35ea999543fba0eaadb902e437fc89c68e10768269f942b2218719db6d766.png",
-        "locale": "itIT"
-    },
-    {
         "cardId": "BG27_017",
         "dbfId": 103700,
         "name": "Razziatore d'Ossidiana",
@@ -7199,6 +7183,22 @@
         "race": "Dragon",
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/33f3bac945182457532af4684d7d54e659c830b7641a78aa22675e7dbc956f57.png",
+        "locale": "itIT"
+    },
+    {
+        "cardId": "BG27_017_G",
+        "dbfId": 103701,
+        "name": "Razziatore d'Ossidiana",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 7,
+        "attack": 14,
+        "health": 14,
+        "text": "Quando attacca, infligge\\ndanni pari al suo Attacco al bersaglio e ai servitori\\nadiacenti.",
+        "artist": "Alex Horley Orlandelli",
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/3cc35ea999543fba0eaadb902e437fc89c68e10768269f942b2218719db6d766.png",
         "locale": "itIT"
     },
     {
@@ -7509,28 +7509,6 @@
         ]
     },
     {
-        "cardId": "BGS_041",
-        "dbfId": 60630,
-        "name": "Kalecgos, Aspetto Arcano",
-        "cardSet": "Battlegrounds",
-        "type": "Minion",
-        "cost": 8,
-        "attack": 2,
-        "health": 10,
-        "text": "[x]Dopo che hai attivato un\\n<b>Grido di Battaglia<\/b>,\\n+1\/+1 ai tuoi Draghi.",
-        "elite": true,
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/172f920e7d37b17509406798ddc617238ce21de1bcba394f8f1465825f87e755.png",
-        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d8f61008e0f885a5d5bb20be445e498c52db3bd7f2c11700cd1d2a5138e606a3.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Grido di Battaglia"
-            }
-        ]
-    },
-    {
         "cardId": "TB_BaconUps_109",
         "dbfId": 60667,
         "name": "Kalecgos, Aspetto Arcano",
@@ -7545,6 +7523,28 @@
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/f17a714cc19cdb959f5f784f91a984effc82d549220f57eb91b01751b621ce23.png",
         "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/1e7dcaccf23814aa73925aececea1e0c19385ff5fcfed8501e9d0b1ef5b8aca4.png",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Grido di Battaglia"
+            }
+        ]
+    },
+    {
+        "cardId": "BGS_041",
+        "dbfId": 60630,
+        "name": "Kalecgos, Aspetto Arcano",
+        "cardSet": "Battlegrounds",
+        "type": "Minion",
+        "cost": 8,
+        "attack": 2,
+        "health": 10,
+        "text": "[x]Dopo che hai attivato un\\n<b>Grido di Battaglia<\/b>,\\n+1\/+1 ai tuoi Draghi.",
+        "elite": true,
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/172f920e7d37b17509406798ddc617238ce21de1bcba394f8f1465825f87e755.png",
+        "imgGold": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/d8f61008e0f885a5d5bb20be445e498c52db3bd7f2c11700cd1d2a5138e606a3.png",
         "locale": "itIT",
         "mechanics": [
             {
@@ -7629,8 +7629,8 @@
         ]
     },
     {
-        "cardId": "LETL_848H",
-        "dbfId": 81847,
+        "cardId": "LETL_848H_Heroic",
+        "dbfId": 82123,
         "name": "Nefarius Indifferente",
         "cardSet": "Mercenaries",
         "type": "Minion",
@@ -7644,8 +7644,8 @@
         "locale": "itIT"
     },
     {
-        "cardId": "LETL_848H_Heroic",
-        "dbfId": 82123,
+        "cardId": "LETL_848H",
+        "dbfId": 81847,
         "name": "Nefarius Indifferente",
         "cardSet": "Mercenaries",
         "type": "Minion",
@@ -7758,6 +7758,33 @@
         ]
     },
     {
+        "cardId": "CORE_ICC_838",
+        "dbfId": 95752,
+        "name": "Sindragosa",
+        "cardSet": "Unknown",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 8,
+        "attack": 8,
+        "health": 8,
+        "text": "[x]<b>Grido di Battaglia:<\/b>\\nevoca due Campioni\\nCongelati 0\/1.",
+        "flavor": "\"Apprezzo i tuoi sforzi, ma credo che la tua magia abbia ancora bisogno di miglioramenti.\" - Sindragosa dopo un corso di comunicazione costruttiva",
+        "artist": "Alex Horley Orlandelli",
+        "collectible": true,
+        "elite": true,
+        "race": "Dragon",
+        "otherRaces": [
+            "Undead"
+        ],
+        "playerClass": "Mage",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Grido di Battaglia"
+            }
+        ]
+    },
+    {
         "cardId": "ICC_838",
         "dbfId": 43506,
         "name": "Sindragosa",
@@ -7778,33 +7805,6 @@
         ],
         "playerClass": "Mage",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/c9c1fc48bffb7a6764a178146b23ed7c0631229e06cc87a3c8444b5d7b4c7c31.png",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Grido di Battaglia"
-            }
-        ]
-    },
-    {
-        "cardId": "CORE_ICC_838",
-        "dbfId": 95752,
-        "name": "Sindragosa",
-        "cardSet": "Unknown",
-        "type": "Minion",
-        "rarity": "Legendary",
-        "cost": 8,
-        "attack": 8,
-        "health": 8,
-        "text": "[x]<b>Grido di Battaglia:<\/b>\\nevoca due Campioni\\nCongelati 0\/1.",
-        "flavor": "\"Apprezzo i tuoi sforzi, ma credo che la tua magia abbia ancora bisogno di miglioramenti.\" - Sindragosa dopo un corso di comunicazione costruttiva",
-        "artist": "Alex Horley Orlandelli",
-        "collectible": true,
-        "elite": true,
-        "race": "Dragon",
-        "otherRaces": [
-            "Undead"
-        ],
-        "playerClass": "Mage",
         "locale": "itIT",
         "mechanics": [
             {
@@ -8374,25 +8374,27 @@
         ]
     },
     {
-        "cardId": "EX1_572",
-        "dbfId": 1186,
+        "cardId": "Story_07_Ysera",
+        "dbfId": 71518,
         "name": "Ysera",
-        "cardSet": "Classic",
+        "cardSet": "Forged in the Barrens",
         "type": "Minion",
-        "faction": "Neutral",
-        "rarity": "Legendary",
         "cost": 9,
         "attack": 4,
         "health": 12,
-        "text": "Alla fine del tuo turno, mette una carta Sogno nella tua mano.",
-        "flavor": "Un drago da sogno. Letteralmente.",
-        "artist": "Gabor Szikszai",
-        "collectible": true,
+        "text": "[x]Alla fine del tuo turno, mette\\nuna carta Sogno nella tua mano.\\n<b>Rantolo di Morte:<\/b> diventa\\n__<b>Dormiente<\/b> per quattro turni.",
         "elite": true,
         "race": "Dragon",
-        "playerClass": "Neutral",
-        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/0528c0c99ffb546f25acbf7c93a1af95cef9ba49050865144394f236acff44f6.png",
-        "locale": "itIT"
+        "playerClass": "Druid",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Dormiente"
+            },
+            {
+                "name": "Rantolo di Morte"
+            }
+        ]
     },
     {
         "cardId": "VAN_EX1_572",
@@ -8416,27 +8418,25 @@
         "locale": "itIT"
     },
     {
-        "cardId": "Story_07_Ysera",
-        "dbfId": 71518,
+        "cardId": "EX1_572",
+        "dbfId": 1186,
         "name": "Ysera",
-        "cardSet": "Forged in the Barrens",
+        "cardSet": "Classic",
         "type": "Minion",
+        "faction": "Neutral",
+        "rarity": "Legendary",
         "cost": 9,
         "attack": 4,
         "health": 12,
-        "text": "[x]Alla fine del tuo turno, mette\\nuna carta Sogno nella tua mano.\\n<b>Rantolo di Morte:<\/b> diventa\\n__<b>Dormiente<\/b> per quattro turni.",
+        "text": "Alla fine del tuo turno, mette una carta Sogno nella tua mano.",
+        "flavor": "Un drago da sogno. Letteralmente.",
+        "artist": "Gabor Szikszai",
+        "collectible": true,
         "elite": true,
         "race": "Dragon",
-        "playerClass": "Druid",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Dormiente"
-            },
-            {
-                "name": "Rantolo di Morte"
-            }
-        ]
+        "playerClass": "Neutral",
+        "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/0528c0c99ffb546f25acbf7c93a1af95cef9ba49050865144394f236acff44f6.png",
+        "locale": "itIT"
     },
     {
         "cardId": "CS3_033",
@@ -8809,30 +8809,6 @@
         ]
     },
     {
-        "cardId": "TB_CoOpv3_Boss",
-        "dbfId": 40259,
-        "name": "Nefarian",
-        "cardSet": "Tavern Brawl",
-        "type": "Minion",
-        "rarity": "Legendary",
-        "cost": 10,
-        "attack": 0,
-        "health": 200,
-        "text": "Non pu\u00f2 essere il bersaglio di Magie. <b>Boss:<\/b> Nefarian vince se sconfigge uno dei due eroi!",
-        "elite": true,
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Provocazione"
-            },
-            {
-                "name": "InvisibleDeathrattle"
-            }
-        ]
-    },
-    {
         "cardId": "LETL_848H4_Heroic",
         "dbfId": 82122,
         "name": "Nefarian",
@@ -8861,6 +8837,30 @@
         "elite": true,
         "race": "Dragon",
         "locale": "itIT"
+    },
+    {
+        "cardId": "TB_CoOpv3_Boss",
+        "dbfId": 40259,
+        "name": "Nefarian",
+        "cardSet": "Tavern Brawl",
+        "type": "Minion",
+        "rarity": "Legendary",
+        "cost": 10,
+        "attack": 0,
+        "health": 200,
+        "text": "Non pu\u00f2 essere il bersaglio di Magie. <b>Boss:<\/b> Nefarian vince se sconfigge uno dei due eroi!",
+        "elite": true,
+        "race": "Dragon",
+        "playerClass": "Neutral",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Provocazione"
+            },
+            {
+                "name": "InvisibleDeathrattle"
+            }
+        ]
     },
     {
         "cardId": "TB_CoOpv3_Boss_NewClasses",
@@ -9003,26 +9003,6 @@
         ]
     },
     {
-        "cardId": "TB_MagicalGuardians_NozDormant",
-        "dbfId": 97080,
-        "name": "Nozdormu",
-        "cardSet": "Tavern Brawl",
-        "type": "Minion",
-        "cost": 11,
-        "attack": 0,
-        "health": 1,
-        "text": "<b>Dormiente<\/b>",
-        "elite": true,
-        "race": "Dragon",
-        "playerClass": "Neutral",
-        "locale": "itIT",
-        "mechanics": [
-            {
-                "name": "Dormiente"
-            }
-        ]
-    },
-    {
         "cardId": "Story_07_NozdormuDormant",
         "dbfId": 71517,
         "name": "Nozdormu",
@@ -9036,6 +9016,26 @@
         "race": "Dragon",
         "playerClass": "Neutral",
         "img": "https:\/\/d15f34w2p8l1cc.cloudfront.net\/hearthstone\/c5299d132c4c0395e7ec7fe29f24db2a863737bb1d1d2a26995174c71b6801b6.png",
+        "locale": "itIT",
+        "mechanics": [
+            {
+                "name": "Dormiente"
+            }
+        ]
+    },
+    {
+        "cardId": "TB_MagicalGuardians_NozDormant",
+        "dbfId": 97080,
+        "name": "Nozdormu",
+        "cardSet": "Tavern Brawl",
+        "type": "Minion",
+        "cost": 11,
+        "attack": 0,
+        "health": 1,
+        "text": "<b>Dormiente<\/b>",
+        "elite": true,
+        "race": "Dragon",
+        "playerClass": "Neutral",
         "locale": "itIT",
         "mechanics": [
             {
