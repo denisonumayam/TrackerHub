@@ -3,10 +3,8 @@ body {
     font-family: 'Gabarito', sans-serif;
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    background-color: black;
 } 
-
-
-
 
 .navbar {
     display: flex;
@@ -183,13 +181,12 @@ select:hover{
     border-radius: 30px;
     transition: 0.3s;
     box-shadow: -10px 10px 0px 0px rgb(138, 90, 0);
-
 }
 
 .serviceHome .square:hover {
     box-shadow: 0px 0px 0px 10px rgb(138, 90, 0);
-
 }
+
 .serviceHome button {
     margin-top: 40px;
     font-family: 'Gabarito', cursive;
@@ -223,15 +220,13 @@ select:hover{
 }
 
 .square .image-container {
-
     text-align: center;
-
 }
 
 .square img {
     margin-top: 40px;
     max-height: 200px;
-    max-width: 200px;
+    max-width: 125px;
     height: auto;
 }
 
@@ -245,20 +240,18 @@ select:hover{
 .cardContent {
     display: flex;
     align-items: center;
-    flex-direction: row; /* Imposta la direzione in fila (orizzontale) */
-    align-items: center; /* Allinea gli elementi lungo l'asse verticale */
+    flex-direction: row;
+    align-items: center; 
     justify-content: center;
     margin-bottom: 50px;
 }
 
-/* i colori qua sotto sono stati utilizzati solo per visualizzare meglio
-come si comportavano i div */
 .infoCard {
     text-align: left;
     padding: 80px;
     max-width: 300;
     color: orange;
-    background-color: aqua; 
+    background-color: rgb(0, 0, 0); 
 }
 
 
@@ -270,12 +263,146 @@ come si comportavano i div */
     background-color: orange;
 }
 
-.imgCard img {
-
-
-}
 .cardSection {
     background-color: orange;
 }
 
+.container {
+    background-color: orange;
+    display: flex;
+    align-items: center;
+}
+
+.text-section {
+    font-size: 20px;
+    padding-left: 200px;
+    flex: 1;
+    padding-right: 20px;
+}
+
+.image-section {
+    width: 200% ;
+    padding-right: 300px;
+    flex: 1;
+    text-align: right;
+}
+
+.image-section img {
+    max-width: 100%;
+    height: auto;
+}
+
+.container2 {
+    color: orange;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+}
+.text-section2 {
+    font-size: 20px;
+    flex: 1;
+    padding-right: 200px;
+}
+
+.image-section2 {
+    padding-right: 300px;
+    width: 200% ;
+    flex: 1;
+    text-align: right;
+}
+
+.image-section2 img{
+    max-width: 70%;
+    padding-top: 40px;
+}
+
+.strong{
+    font-size: 25px;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.form button{
+    padding: 20px;
+    text-align: center;
+
+}
+.research{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+.invia, .form select {
+    margin-top: 5px;
+    font-family: 'Gabarito', cursive;
+    font-weight: 800;
+    padding: 15px 25px;
+    font-size: 18px;
+    background-color: orange;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 50px;
+    transition: 0.3s;
+}
+
+.invia:hover, .form select:hover {
+    background-color: rgb(122, 80, 0);
+    transition: 0.3;
+} 
+
+.searchBar{
+    margin-top: 5px;
+    font-family: 'Gabarito', cursive;
+    font-weight: 800;
+    padding: 15px 25px;
+    font-size: 18px;
+    background-color: orange;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 50px;
+    transition: 0.3s;
+}
+
+.searchBar:hover {
+    background-color: rgb(122, 80, 0);
+    transition: 0.3;
+} 
+
+.loading-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.664);
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.loading-spinner {
+    border: 4px solid rgba(255, 255, 255, 0.3);
+    border-top: 4px solid #fff;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}
 

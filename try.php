@@ -6,21 +6,36 @@
 
 
 
-$selectedOption = "Type";
+$selectedOption = " ";
+$searchTerm = " ";
 
 // Verifica se è stata inviata una richiesta POST dalla combobox
-if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["race"])) {
+if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["tipo"])) {
 	// Ottieni il valore selezionato dalla combobox
-    $selectedOption = $_POST["race"];
+	$searchTerm = $_POST["nome"];
+    $selectedOption = $_POST["tipo"];
+}
+else {
+	$searchTerm = "";
+}
+
+if($searchTerm === ""){
+	echo"
+	<div class='research'>
+		<h1>Risultati in '$selectedOption'</h1>
+	</div>";
+}
+else{
+	echo	"
+	<div class='research'>
+		<h1>Risultati in '$selectedOption'</h1>
+		<p>chiamati '$searchTerm';
+	</div>";
 }
 
 $baseUrl = "https://omgvamp-hearthstone-v1.p.rapidapi.com/cards/races/$selectedOption?locale=itIT";
-// $url = $baseUrl . strtolower($selectedOption);
 $curl = curl_init();
 
-//se alla fine del link che trovi qua sotto sostituisci l'ultima
-//parola(Pirates), e inserisci un'altro tipo(tutti i tipi li vedi
-//in home.html nella parte del form dove ci sono gli input). ciao frocio
 curl_setopt_array($curl, [
 	CURLOPT_URL => $baseUrl,
 	CURLOPT_RETURNTRANSFER => true,
@@ -35,18 +50,20 @@ curl_setopt_array($curl, [
 	],
 ]);
 
+
 $response = curl_exec($curl);
 $err = curl_error($curl);
 
 curl_close($curl);
 
 if ($err) {
-	echo "cURL Error #:" . $err;
-} else {
+	echo " ";
+}
+else {
     $decoded_response = json_decode($response, true);
     
     if ($decoded_response !== null) {
-        $file_name = 'cards_murloc.json';
+        $file_name = 'cardsBG.json';
         $formatted_json = json_encode($decoded_response, JSON_PRETTY_PRINT);
         file_put_contents($file_name, $formatted_json);
         
@@ -54,75 +71,53 @@ if ($err) {
         echo "Errore nella decodifica della risposta JSON.";
     }
 
-
-
-
-	$file_content = file_get_contents('cards_murloc.json');
+	$file_content = file_get_contents('cardsBG.json');
 	$json_data = json_decode($file_content, true);
 
 	$desired_id = 'UNG_073';
 	$minion = 'Minion';
 
 	foreach ($json_data as $element) {
-    	// if (isset($element['cardId']) && $element['cardId'] === $desired_id) {
-			if($element['type'] === 'Minion'){
-				if($element['cardSet'] === 'Battlegrounds'){
-				if (isset($element['img'])) {
-	
-					$cleaned_url = stripslashes($element['img']);
-				
-				} else {
-					$cleaned_url = "Immagine Non Disponibile";
+			if(isset($element['type']) && isset($element['cardSet']) && $element['type'] === 'Minion' && $element['cardSet'] === 'Battlegrounds'){
+					if(isset($element['name']))
+				if(stripos(strtolower($element['name']), strtolower($searchTerm)) !== false){
+			$cleaned_url = isset($element['img']) ? stripslashes($element['img']) : "Immagine Non Disponibile";
+			if(isset($element['text'])){
+				$text = stripslashes($element['text']);
+			} 
+			else {
+				$text = " ";
+			}
+			$race = isset($element['race']) ? stripslashes($element['race']) : "Tipo della carta non disponibile";
+			$attack = isset($element['attack']) && isset($element['health']) ? stripslashes($element['attack']) : "???";
+			$health = isset($element['attack']) && isset($element['health']) ? stripslashes($element['health']) : "???";
+			if (isset($element['otherRaces']) && is_array($element['otherRaces']) && count($element['otherRaces']) > 0) {
+				foreach ($element['otherRaces'] as $key) {
+					$race2 = "- $key";
 				}
-				if (isset($element['text'])) {
-	
-					$text = stripslashes($element['text']);
-				
-				} else {
-					$text = "Descrizione Non Disponibile";
-				}
-				if (isset($element['falvor'])) {
-	
-					$flavor = stripslashes($element['flavor']);
-				
-				} else {
-					$flavor = "Flavor Non Disponibile";
-				}
-				if (isset($element['race'])) {
-	
-					$race = stripslashes($element['race']);
-				
-				} else {
-					$race = "Tipo della carta non disponibile";
-				}
+			} else{
+				$race2 = " ";
+			}
 				echo "
 				<div class='cardSection'>
 				<div class='cardContent'>
 					<div class='imgCard'>
-						<img src='" . $cleaned_url . "' alt='Caricamento immagine non riuscita'>
+						<img src='" . $cleaned_url . "' alt='Immagine Non Disponibile'>
 					</div>
 					<div class='infoCard'> 
 						<p>Name: {$element['name']}</p>
-						<p>Tribe: {$race}</p>
+						<p>Tribe: {$race} {$race2}</p>
 						<p>Descrizione: {$text}</p>
-						<p>Flavor: {$flavor}</p>
+						<p><strong class='strong'>ATK: {$attack} - HTH: {$health}</strong></p>
 					</div>
 				</div>
 				</div>";
 
 			}
 		}
-	
-			
-    	}
-	
 	}
+}
+	
 
-
-
-// }
-
-
-//funziona tutto
-//usa: https://rapidapi.com/blog/hearthstone-api-with-python-php-ruby-javascript-examples/
-//rapidapi hs usato: https://rapidapi.com/omgvamp/api/hearthstone/
+// https://rapidapi.com/blog/hearthstone-api-with-python-php-ruby-javascript-examples/
+// https://rapidapi.com/omgvamp/api/hearthstone/
